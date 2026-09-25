@@ -199,7 +199,7 @@ def combination_form(row, slots, linked):
         slot_rows += """<div class="slot-row">
           <input type="text" name="slot_label_%d" value="%s" placeholder="Jupiter, Sign, House...">
           <input type="text" name="slot_value_%d" value="%s" placeholder="Aries, 7th, Mercury...">
-        </div>""" % (i, lbl or "", v or "")
+        </div>""" % (i, lbl or "", i, v or "")
 
     all_ppl = q("SELECT id, name FROM people ORDER BY name")
     ppl_html = ""
