@@ -234,7 +234,7 @@ def research_form(row, pre, slots):
         slot_rows += """<div class="slot-row">
           <input type="text" name="slot_label_%d" value="%s" placeholder="Jupiter, Sign...">
           <input type="text" name="slot_value_%d" value="%s" placeholder="Aries, 7th...">
-        </div>""" % (i, lbl or "", v or "")
+        </div>""" % (i, lbl or "", i, v or "")
 
     dasha = q("SELECT level, lord, dasha_date FROM research_dasha WHERE research_id=? ORDER BY id", (rid,)) if rid else []
     dasha_rows = ""
