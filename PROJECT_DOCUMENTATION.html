@@ -1,0 +1,518 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AstroKarmaPath — Full Documentation</title>
+<style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, Roboto, sans-serif; margin: 0;
+       background: #f4f5f7; color: #222; line-height: 1.6; }
+header { background: #5e35b1; color: #fff; padding: 24px 20px; }
+header h1 { margin: 0; font-size: 26px; letter-spacing: -.5px; }
+header p { margin: 6px 0 0; opacity: .85; font-size: 13px; }
+nav { background: #ede7f6; padding: 14px 20px; border-bottom: 1px solid #d1c4e9; }
+nav a { display: inline-block; color: #4527a0; text-decoration: none;
+        font-size: 13px; margin: 4px 10px 4px 0; padding: 4px 10px;
+        background: #fff; border-radius: 8px; }
+main { max-width: 820px; margin: 0 auto; padding: 20px; }
+section { background: #fff; border-radius: 12px; padding: 18px 20px;
+          margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+h2 { color: #5e35b1; font-size: 20px; margin: 0 0 12px;
+     border-bottom: 2px solid #ede7f6; padding-bottom: 8px; }
+h3 { color: #4527a0; font-size: 16px; margin: 18px 0 8px; }
+h4 { color: #333; font-size: 14px; margin: 14px 0 6px; }
+p { margin: 8px 0; font-size: 14.5px; }
+ul, ol { margin: 8px 0; padding-left: 22px; font-size: 14.5px; }
+li { margin: 4px 0; }
+code { background: #f5f5f5; padding: 2px 6px; border-radius: 4px;
+       font-family: monospace; font-size: 12.5px; color: #5e35b1; }
+pre { background: #2d2d2d; color: #f0f0f0; padding: 14px; border-radius: 8px;
+      overflow-x: auto; font-size: 12.5px; line-height: 1.5; }
+pre code { background: none; color: inherit; padding: 0; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px;
+        margin: 10px 0; }
+th { background: #ede7f6; color: #4527a0; text-align: left;
+     padding: 9px; font-weight: 600; }
+td { padding: 9px; border-bottom: 1px solid #eee; vertical-align: top; }
+tr:last-child td { border-bottom: none; }
+blockquote { border-left: 4px solid #ffb300; background: #fff8e1;
+             padding: 10px 14px; margin: 10px 0; border-radius: 6px;
+             font-size: 14px; }
+.chip { display: inline-block; padding: 2px 8px; border-radius: 10px;
+        font-size: 11px; font-weight: 600; color: #fff; }
+.chip.p { background: #5e35b1; }
+.chip.c { background: #ef6c00; }
+.chip.r { background: #2e7d32; }
+.meta { color: #999; font-size: 12px; }
+footer { text-align: center; color: #999; font-size: 12px;
+         padding: 20px; }
+@media print { header { background: #5e35b1 !important;
+                -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+                nav { display: none; } }
+</style></head><body>
+<header>
+<h1>AstroKarmaPath &infin;</h1>
+<p>Complete Project Documentation</p>
+<p class="meta">Version 1.3 · September 2026</p>
+</header>
+<nav>
+<a href="#overview">Overview</a>
+<a href="#concept">Core Concept</a>
+<a href="#stack">Tech Stack</a>
+<a href="#schema">Database</a>
+<a href="#routes">Pages &amp; Routes</a>
+<a href="#unified">Unified Form</a>
+<a href="#save">Save Behaviour</a>
+<a href="#search">Search</a>
+<a href="#paste">Paste Format</a>
+<a href="#excel">Excel Format</a>
+<a href="#data">Import / Export</a>
+<a href="#folders">Folders</a>
+<a href="#offline">Offline</a>
+<a href="#hosting">Hosting</a>
+<a href="#maintenance">Maintenance</a>
+<a href="#limits">Limitations</a>
+<a href="#log">Change Log</a>
+</nav>
+<main>
+<section id="overview"><h2>1. Project Overview</h2>
+<p><b>AstroKarmaPath</b> is a cloud-hosted research database for astrological case studies. It runs on the web, is reachable from any device on any network, and requires no software installation on the device you use.</p>
+<h3>Purpose</h3>
+<p>The project was built to log real-life events alongside the astrological patterns associated with them. Unlike a static notes app, it maintains relationships between three entities — <b>people</b>, <b>combinations</b> (astrological patterns), and <b>research</b> (case studies of events) — and lets you search across all of them at once.</p>
+<h3>Key Goals</h3>
+<ul>
+<li>Store birth details of persons in a structured, searchable way.</li>
+<li>Log astrological combinations as flexible {category, value} patterns.</li>
+<li>Attach one or more combinations to a real-life event (research note).</li>
+<li>Support multiple observations of the same event.</li>
+<li>Allow offline work and paste-based bulk data entry.</li>
+<li>Keep all data automatically backed up to GitHub.</li>
+<li>Run entirely on free tiers — no subscription required.</li>
+</ul>
+<h3>Who it is for</h3>
+<p>A single researcher (you), using a phone or tablet, working on astrological case studies over long periods. The tool is designed for hour-by-hour use — fast entry, fast search, and no friction when adding small observations.</p>
+</section>
+<section id="concept"><h2>2. Core Concept</h2>
+<p>The most important design decision in the project is that <b>Combination</b> and <b>Research</b> represent the same underlying idea, seen from two different angles.</p>
+<h3>Definition</h3>
+<ul>
+<li>A <b>Combination</b> is an astrological pattern. Example: <code>Jupiter + Saturn + 7th house</code>.</li>
+<li>A <b>Research</b> is a real-life event. Example: <code>Anemia happened</code>.</li>
+<li>A <b>Research is a container</b>. It holds an event, a list of persons, and one or more <b>observations</b>.</li>
+<li>Each <b>observation</b> is a single combination attempt — a pattern tested against the event.</li>
+</ul>
+<blockquote>
+In astrology, one event rarely has a single cause. So a research note can hold many combinations, added one at a time. Later, you look for patterns across similar cases.
+</blockquote>
+<h3>Unified Data Model</h3>
+<p>Both independent combinations and research observations are stored in the same <code>combinations</code> table. The only difference is whether the row carries a <code>research_id</code>:</p>
+<ul>
+<li><b>research_id is empty</b> → independent combination</li>
+<li><b>research_id is set</b> → observation belonging to a research</li>
+</ul>
+<p>This is why the same form appears in both places. When you start from a research, the title is pre-filled with the event name. When you start fresh, you type the title freely.</p>
+</section>
+<section id="stack"><h2>3. Technology Stack</h2>
+<table>
+<tr><th>Layer</th><th>Technology</th><th>Why</th></tr>
+<tr><td>Database</td><td>Turso (cloud SQLite)</td><td>Free 9 GB, cloud-hosted, simple SQL, accessible from anywhere</td></tr>
+<tr><td>Backend</td><td>Flask (Python)</td><td>Lightweight, runs on free-tier hosts, works well on phone via Pydroid 3</td></tr>
+<tr><td>App Host</td><td>Render (free tier)</td><td>Free web service, Git-based deploy, auto-rebuilds on push</td></tr>
+<tr><td>Code Host</td><td>GitHub</td><td>Stores code, keeps history, provides Actions for cron jobs</td></tr>
+<tr><td>Keep-alive</td><td>UptimeRobot</td><td>Pings the Render app every 5 min so it never sleeps</td></tr>
+<tr><td>Dev</td><td>Pydroid 3 (Android)</td><td>Python IDE on phone, no laptop required</td></tr>
+<tr><td>Backup</td><td>GitHub Actions</td><td>Runs a daily cron that triggers a backup to the repo</td></tr>
+</table>
+<h3>Diagram</h3>
+<pre><code>
+  Your phone / tablet / laptop
+           |
+           |  (any network)
+           v
+  https://astrokarmapath-1.onrender.com
+           |
+           +---> Turso cloud database
+           |
+           +---> GitHub API (backups)
+                    ^
+                    |
+             GitHub Actions cron
+             (daily at 20:30 UTC)
+
+  UptimeRobot pings the URL every 5 minutes
+  to prevent Render from sleeping.
+</code></pre>
+</section>
+<section id="schema"><h2>4. Database Schema</h2>
+<p>All data lives in a single SQLite database hosted on Turso. Below are all tables and their columns.</p>
+<h3>people</h3>
+<table>
+<tr><th>Column</th><th>Type</th><th>Notes</th></tr>
+<tr><td>id</td><td>INTEGER</td><td>Primary key, auto-increment</td></tr>
+<tr><td>name</td><td>TEXT</td><td>Person's full name</td></tr>
+<tr><td>birth_date</td><td>TEXT</td><td>YYYY-MM-DD</td></tr>
+<tr><td>birth_time</td><td>TEXT</td><td>HH:MM</td></tr>
+<tr><td>birth_place</td><td>TEXT</td><td>City, Country</td></tr>
+<tr><td>manual_coords</td><td>TEXT</td><td>Latitude, Longitude (optional)</td></tr>
+<tr><td>broader_tags</td><td>TEXT</td><td>Comma-separated (Profession / Disease)</td></tr>
+<tr><td>multiple_tags</td><td>TEXT</td><td>Comma-separated (Family art / Dealer)</td></tr>
+<tr><td>notes</td><td>TEXT</td><td>Free text</td></tr>
+<tr><td>created_at</td><td>TEXT</td><td>Auto timestamp</td></tr>
+</table>
+<p class="meta">Overwrite key: name + birth_date + birth_place</p>
+<h3>research</h3>
+<table>
+<tr><th>Column</th><th>Type</th><th>Notes</th></tr>
+<tr><td>id</td><td>INTEGER</td><td>Primary key</td></tr>
+<tr><td>event</td><td>TEXT</td><td>Event name — becomes title of linked combinations</td></tr>
+<tr><td>event_date_from</td><td>TEXT</td><td>Range start</td></tr>
+<tr><td>event_date_to</td><td>TEXT</td><td>Range end</td></tr>
+<tr><td>event_time</td><td>TEXT</td><td>Optional time</td></tr>
+<tr><td>created_at</td><td>TEXT</td><td>Auto timestamp</td></tr>
+</table>
+<h3>research_people (many-to-many)</h3>
+<table>
+<tr><th>Column</th><th>Type</th></tr>
+<tr><td>research_id</td><td>INTEGER</td></tr>
+<tr><td>person_id</td><td>INTEGER</td></tr>
+</table>
+<h3>combinations</h3>
+<p>Stores both independent combinations AND research observations.</p>
+<table>
+<tr><th>Column</th><th>Type</th><th>Notes</th></tr>
+<tr><td>id</td><td>INTEGER</td><td>Primary key</td></tr>
+<tr><td>title</td><td>TEXT</td><td>Required. Short result.</td></tr>
+<tr><td>body</td><td>TEXT</td><td>Long answer / explanation, multi-paragraph</td></tr>
+<tr><td>chart_ref</td><td>TEXT</td><td>Comma-separated: "D1, D9"</td></tr>
+<tr><td>event_date_from</td><td>TEXT</td><td>From date</td></tr>
+<tr><td>event_date_to</td><td>TEXT</td><td>To date</td></tr>
+<tr><td>event_time</td><td>TEXT</td><td>Optional time</td></tr>
+<tr><td>log_date</td><td>TEXT</td><td>Auto-filled, editable</td></tr>
+<tr><td>log_time</td><td>TEXT</td><td>Auto-filled, editable</td></tr>
+<tr><td>research_id</td><td>INTEGER</td><td>NULL for independent combinations</td></tr>
+<tr><td>observation_num</td><td>INTEGER</td><td>1, 2, 3... within a research</td></tr>
+<tr><td>is_main</td><td>INTEGER</td><td>0/1 — one per research is main</td></tr>
+<tr><td>created_at</td><td>TEXT</td><td>Auto timestamp</td></tr>
+</table>
+<h3>combination_slots</h3>
+<table>
+<tr><th>Column</th><th>Type</th></tr>
+<tr><td>id</td><td>INTEGER</td></tr>
+<tr><td>combination_id</td><td>INTEGER (FK)</td></tr>
+<tr><td>slot_num</td><td>INTEGER</td></tr>
+<tr><td>label</td><td>TEXT (e.g. Jupiter, Sign)</td></tr>
+<tr><td>value</td><td>TEXT (e.g. Aries, 7th)</td></tr>
+</table>
+<h3>combination_dasha</h3>
+<table>
+<tr><th>Column</th><th>Type</th></tr>
+<tr><td>id</td><td>INTEGER</td></tr>
+<tr><td>combination_id</td><td>INTEGER (FK)</td></tr>
+<tr><td>level</td><td>TEXT (MD / AD / PD / SD / Pratyantar)</td></tr>
+<tr><td>lord</td><td>TEXT</td></tr>
+<tr><td>dasha_date</td><td>TEXT</td></tr>
+</table>
+<h3>combination_people (many-to-many)</h3>
+<table>
+<tr><th>Column</th><th>Type</th></tr>
+<tr><td>combination_id</td><td>INTEGER</td></tr>
+<tr><td>person_id</td><td>INTEGER</td></tr>
+</table>
+</section>
+<section id="routes"><h2>5. Pages &amp; Routes</h2>
+<table>
+<tr><th>Route</th><th>Purpose</th></tr>
+<tr><td><code>/</code></td><td>Home — 6 menu items</td></tr>
+<tr><td><code>/people</code></td><td>List of all persons with counts</td></tr>
+<tr><td><code>/people/search</code></td><td>Live search with A–Z letters</td></tr>
+<tr><td><code>/person/new</code></td><td>Add person form</td></tr>
+<tr><td><code>/person/&lt;id&gt;</code></td><td>Person detail with linked combos &amp; research</td></tr>
+<tr><td><code>/person/&lt;id&gt;/edit</code></td><td>Edit person</td></tr>
+<tr><td><code>/person/&lt;id&gt;/link_combo</code></td><td>Picker to link a combination</td></tr>
+<tr><td><code>/person/&lt;id&gt;/link_research</code></td><td>Picker to link a research</td></tr>
+<tr><td><code>/combinations</code></td><td>List of all combinations</td></tr>
+<tr><td><code>/combinations/search</code></td><td>Combination search</td></tr>
+<tr><td><code>/combination/new</code></td><td>New combination (unified form)</td></tr>
+<tr><td><code>/combination/&lt;id&gt;</code></td><td>View combination</td></tr>
+<tr><td><code>/combination/&lt;id&gt;/edit</code></td><td>Edit combination</td></tr>
+<tr><td><code>/combination/&lt;id&gt;/saved</code></td><td>Post-save sheet — link to research/people</td></tr>
+<tr><td><code>/research</code></td><td>List of research notes</td></tr>
+<tr><td><code>/research/new</code></td><td>New research (event + dates + persons)</td></tr>
+<tr><td><code>/research/&lt;id&gt;</code></td><td>Research detail with observation cards</td></tr>
+<tr><td><code>/research/&lt;id&gt;/set_main/&lt;cid&gt;</code></td><td>Promote observation to main</td></tr>
+<tr><td><code>/search</code></td><td>Global mixed search with chips</td></tr>
+<tr><td><code>/data</code></td><td>Import / Export hub</td></tr>
+<tr><td><code>/data/parse</code></td><td>Preview pasted data</td></tr>
+<tr><td><code>/data/save_parsed</code></td><td>Confirm paste and save</td></tr>
+<tr><td><code>/data/export/json</code></td><td>Download JSON</td></tr>
+<tr><td><code>/data/export/csv</code></td><td>Download CSV ZIP</td></tr>
+<tr><td><code>/data/export/github</code></td><td>Push backup to GitHub</td></tr>
+<tr><td><code>/data/import/github</code></td><td>List backups from GitHub</td></tr>
+<tr><td><code>/data/import_json</code></td><td>Upload JSON to restore</td></tr>
+<tr><td><code>/api/people/search</code></td><td>Autocomplete endpoint</td></tr>
+<tr><td><code>/api/combinations/search</code></td><td>Combination search endpoint</td></tr>
+<tr><td><code>/api/research/search</code></td><td>Research search endpoint</td></tr>
+</table>
+</section>
+<section id="unified"><h2>6. The Unified Form</h2>
+<p>Both independent combinations and research observations use the same form. The only difference is that the title is pre-filled when entered through a research.</p>
+<table>
+<tr><th>Field</th><th>Rules</th></tr>
+<tr><td><b>Main title</b> *</td><td>Required. Short result. Free text. Pre-filled as "Event name #N" from a research.</td></tr>
+<tr><td><b>Ref chart</b></td><td>Multi-select pills (D1, D9, D10…). Custom refs added via + button.</td></tr>
+<tr><td><b>Combination slots</b></td><td>Label + value rows. Add/remove with +/× buttons. Both free text.</td></tr>
+<tr><td><b>Dasha</b></td><td>Rows with level (dropdown: MD / AD / PD / SD / Pratyantar) + lord + date.</td></tr>
+<tr><td><b>Date of event</b></td><td>From → To, plus optional time. Single date allowed.</td></tr>
+<tr><td><b>Date of logging</b></td><td>Auto-filled with current date + time. Editable.</td></tr>
+<tr><td><b>Persons</b></td><td>Checkbox list of all people. Inherited from research when applicable.</td></tr>
+<tr><td><b>Body</b></td><td>Large text area. Multiple paragraphs. The long answer.</td></tr>
+</table>
+<h3>Title vs Body</h3>
+<ul>
+<li><b>Title</b> = short result (e.g. "Bad marriage", "Anemia happened #1")</li>
+<li><b>Body</b> = long answer (detailed explanation of what happened)</li>
+<li>These are two separate fields.</li>
+</ul>
+</section>
+<section id="save"><h2>7. Save Behaviour</h2>
+<h3>From a research observation</h3>
+<ul>
+<li>Saved in <code>combinations</code> with <code>research_id</code> set</li>
+<li><code>observation_num</code> auto-assigned (1, 2, 3…)</li>
+<li>First observation becomes <b>is_main = 1</b></li>
+<li>All research persons linked automatically</li>
+<li>Additional persons can be added; original research persons cannot be removed</li>
+</ul>
+<h3>From an independent combination</h3>
+<ul>
+<li>Saved in <code>combinations</code> with <code>research_id</code> = NULL</li>
+<li>Title = user-typed result</li>
+<li>Persons explicitly linked via checkboxes</li>
+</ul>
+<h3>Overwrite rules (when re-importing data)</h3>
+<ul>
+<li><b>Person:</b> key = name + dob + location</li>
+<li><b>Combination:</b> key = title + observation_num</li>
+<li><b>Research:</b> key = event + person + date</li>
+<li>Independent combos with same title → both saved, distinguished by slots</li>
+</ul>
+<h3>Delete behaviour</h3>
+<ul>
+<li>Deleting a research → observations become independent combinations (not deleted)</li>
+<li>Deleting an observation → removes the combination row entirely</li>
+<li>Deleting a person → unlinks from all combinations and research</li>
+</ul>
+</section>
+<section id="search"><h2>8. Search System</h2>
+<h3>Global search behaviour</h3>
+<ul>
+<li>Results appear as a <b>mixed list</b>, ranked by relevance — not grouped by type</li>
+<li>Each result has a <b>visual chip</b> at the top-right corner:<br><span class="chip p">P</span> Person &nbsp;<span class="chip c">C</span> Combination &nbsp;<span class="chip r">R</span> Research</li>
+<li>Ranking: exact title match → starts-with → contains</li>
+<li>Within the same score: Research &gt; Combination &gt; Person</li>
+<li>Search across: title, body, slot values, person names</li>
+<li>The <code>#N</code> observation numbering is ignored during ranking</li>
+</ul>
+<h3>Live search (People / Combos / Research pages)</h3>
+<ul>
+<li>Input field autofocuses when the page opens</li>
+<li>As you type, results update after 200 ms idle</li>
+<li>A–Z letter buttons for quick jumps</li>
+<li>JavaScript fetches from <code>/api/*/search</code> endpoints</li>
+</ul>
+</section>
+<section id="paste"><h2>9. Paste / Import Format</h2>
+<p>Flexible, systematic, lenient parsing. You paste text, see a preview, confirm to save. Overwrites instead of duplicating.</p>
+<h3>Example block</h3>
+<pre><code>person
+name: Test Person
+dob: 1990-08-14
+tob: 06:42
+location: Chennai, India
+manual coords: 13.0827, 80.2707
+tags: cinema, sports
+short tags: psycho movies, baseball
+notes: notes here
+
+combination
+title: Bad marriage
+refs: D1, D9
+slots:
+  Jupiter - Aries
+  Saturn - 7th house
+dasha:
+  MD - Jupiter - 2019
+  AD - Saturn - 2021
+event date: 20/03/2024 to 15/04/2024
+log date: 2026-09-26
+body: Long description here spanning
+      multiple lines is fine.
+
+research
+event: Anemia happened
+event date: 20/03/2024 to 15/04/2024
+persons: Test Person, Abhishek
+
+observation
+title: Anemia happened #1
+refs: D1
+slots:
+  Moon - 6th
+  Ketu - 8th
+event date: 20/03/2024
+body: Severe anemia detected.
+</code></pre>
+<h3>Parsing rules</h3>
+<ul>
+<li>Block header: <code>#person</code> or just <code>person</code> (both work)</li>
+<li>Simple fields: <code>key: value</code></li>
+<li>Slots: <code>label - value</code> (dash separator), indented</li>
+<li>Dasha: <code>level - lord - date</code> (dash separators)</li>
+<li>Dates: accept many formats (14/08/1990, Aug 14 1990, 1990-08-14)</li>
+<li>Partial paste allowed — saves whatever fields are given</li>
+<li>Body continues on indented lines</li>
+<li>Preview shown before saving</li>
+</ul>
+</section>
+<section id="excel"><h2>10. Excel / CSV Format</h2>
+<p>Multi-sheet CSV export with auto serial numbers. Cross-linked by S.No.</p>
+<h3>Sheet 1 — Persons</h3>
+<p><code>S.No | Name | DOB | TOB | Location | Manual Coords | Tags | Short Tags | Notes</code></p>
+<h3>Sheet 2 — Research</h3>
+<p><code>S.No | Event | Date From | Date To | Time | Person S.No(s)</code></p>
+<h3>Sheet 3 — Observations</h3>
+<p><code>S.No | Research S.No | Obs Num | Is Main | Title | Refs | Slots | Dasha | Event Date From | Event Date To | Log Date | Body | Person S.No(s)</code></p>
+<h3>Sheet 4 — Combinations</h3>
+<p><code>S.No | Title | Observation S.No | Research S.No | Refs | Slots | Dasha | Event Date | Log Date | Body | Person S.No(s)</code></p>
+<h3>Notes</h3>
+<ul>
+<li>Slots stored as <code>Label-Value; Label-Value</code></li>
+<li>Dasha stored as <code>Level-Lord-Date; Level-Lord-Date</code></li>
+<li>Dates in YYYY-MM-DD format for Excel compatibility</li>
+<li>S.No can repeat in foreign key columns (one person in many rows)</li>
+<li>Import reads all sheets, links by S.No, overwrites on re-import</li>
+</ul>
+</section>
+<section id="data"><h2>11. Import / Export Hub</h2>
+<h3>Export options</h3>
+<ul>
+<li><b>JSON</b> — complete data dump, one file, human-readable</li>
+<li><b>CSV (ZIP)</b> — 4 sheets as CSVs, ready for Excel / Sheets</li>
+<li><b>Push to GitHub</b> — commits a dated backup to the repo automatically</li>
+</ul>
+<h3>Import options</h3>
+<ul>
+<li><b>Paste import</b> — paste text, preview, confirm</li>
+<li><b>Upload JSON</b> — restore a previous export</li>
+<li><b>Import from GitHub</b> — list and pick a backup from the repo</li>
+</ul>
+<h3>Auto backup</h3>
+<ul>
+<li>GitHub Actions runs a cron job daily at 20:30 UTC (02:00 IST)</li>
+<li>It calls <code>/data/export/github</code> on the live app</li>
+<li>A JSON file lands in <code>backups/YYYY-MM-DD_HH-MM.json</code> in the repo</li>
+<li>Backups are kept indefinitely (you can prune later if needed)</li>
+</ul>
+</section>
+<section id="folders"><h2>12. Folders on Device</h2>
+<table>
+<tr><th>Purpose</th><th>Path</th></tr>
+<tr><td>Project code</td><td><code>/storage/emulated/0/astrokarmapath/</code></td></tr>
+<tr><td>Watch folder (future)</td><td><code>.../astrokarmapath/import/</code></td></tr>
+<tr><td>After import (future)</td><td><code>.../astrokarmapath/imported/</code></td></tr>
+<tr><td>Export destination</td><td><code>.../astrokarmapath/exports/</code></td></tr>
+<tr><td>Local token file (never pushed)</td><td><code>local_config.py</code></td></tr>
+<tr><td>Design documentation</td><td><code>DESIGN.md</code></td></tr>
+</table>
+</section>
+<section id="offline"><h2>13. Offline Workflow</h2>
+<p>Currently the app requires internet because the database is in the cloud. The following are planned for future rounds:</p>
+<ul>
+<li><b>Paste importer</b> (already built) — write text in Notes or Excel offline, paste when online</li>
+<li><b>Offline queue</b> — saved locally, auto-synced when online (not yet built)</li>
+<li><b>Cache last-viewed pages</b> — browse previously opened pages offline (not yet built)</li>
+<li><b>Watch folder</b> — drop CSV/JSON into a folder, tap "Sync now" (not yet built)</li>
+</ul>
+<blockquote>
+For now, work offline by writing your entries in the paste format, then paste when you have internet.
+</blockquote>
+</section>
+<section id="hosting"><h2>14. Hosting Setup</h2>
+<h3>Render</h3>
+<ul>
+<li>Free tier — 750 instance hours per month</li>
+<li>One web service: <code>astrokarmapath-1</code></li>
+<li>Build command: <code>pip install -r requirements.txt</code></li>
+<li>Start command: <code>gunicorn app:app</code></li>
+<li>Environment variables set: <code>TURSO_AUTH_TOKEN</code>, <code>GITHUB_USER</code>, <code>GITHUB_REPO</code>, <code>GITHUB_TOKEN</code></li>
+</ul>
+<h3>UptimeRobot</h3>
+<ul>
+<li>Pings <code>https://astrokarmapath-1.onrender.com</code> every 5 minutes</li>
+<li>Prevents Render free tier from sleeping after 15 min idle</li>
+<li>App stays warm — instant load for the user</li>
+</ul>
+<h3>Turso</h3>
+<ul>
+<li>Free tier — 9 GB storage, 500 million row reads / month</li>
+<li>Database name: <code>astrokarmapath</code></li>
+<li>Region: ap-south-1 (Mumbai)</li>
+</ul>
+<h3>GitHub</h3>
+<ul>
+<li>Repository: <code>uttamrokzz/Astrokarmapath-1</code> (private)</li>
+<li>Stores code, backups, and the daily Actions workflow</li>
+<li>Triggers Render redeployment on push</li>
+</ul>
+</section>
+<section id="maintenance"><h2>15. Maintenance &amp; Operations</h2>
+<h3>Making code changes</h3>
+<ol>
+<li>Edit the file in Pydroid</li>
+<li>Run <code>push_to_github.py</code></li>
+<li>Render rebuilds within 1–2 minutes</li>
+</ol>
+<h3>Viewing logs</h3>
+<ul>
+<li>Render dashboard → your service → Logs tab</li>
+<li>Errors appear with full tracebacks</li>
+</ul>
+<h3>Backups</h3>
+<ul>
+<li>Automatic: GitHub Actions daily at 20:30 UTC</li>
+<li>Manual: tap Push to GitHub on <code>/data</code></li>
+<li>Files land in <code>backups/</code> in the repo</li>
+</ul>
+<h3>Redeploying</h3>
+<ul>
+<li>Auto on every push to <code>main</code></li>
+<li>Manual: Render dashboard → Manual Deploy button</li>
+</ul>
+</section>
+<section id="limits"><h2>16. Known Limitations</h2>
+<ul>
+<li>Render free tier sleeps after 15 min idle without traffic — solved by UptimeRobot</li>
+<li>No persistent file system on Render — file operations go through GitHub API or the phone</li>
+<li>Daily export runs on the server and commits to GitHub (not to your phone directly)</li>
+<li>Offline queue not yet built</li>
+<li>Watch folder not yet built</li>
+<li>Email export not yet built</li>
+<li>Re-importing data creates duplicates (overwrite logic not yet fully implemented)</li>
+<li>Import does not yet support multi-sheet CSV input (JSON import works)</li>
+</ul>
+</section>
+<section id="log"><h2>17. Change Log</h2>
+<table>
+<tr><th>Version</th><th>Date</th><th>Change</th></tr>
+<tr><td>1.0</td><td>2026-09-26</td><td>Initial design — unified combination/research model</td></tr>
+<tr><td>1.1</td><td>2026-09-26</td><td>Body = answer. Main observation flag. Log date field. Excel cross-links.</td></tr>
+<tr><td>1.2</td><td>2026-09-26</td><td>Persons on unified form. Dasha section. Inherited-persons rule. Each observation has its own event date. Title vs Body semantics.</td></tr>
+<tr><td>1.3</td><td>2026-09-26</td><td>Dasha lives only at observation level (removed research-level default).</td></tr>
+</table>
+</section>
+</main>
+<footer>
+<p>AstroKarmaPath — Complete Documentation</p>
+<p>Generated on 2026-09-26 17:25</p>
+</footer>
+</body></html>
