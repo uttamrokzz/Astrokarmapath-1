@@ -1,0 +1,15 @@
+name: Daily Backup
+
+on:
+  schedule:
+    - cron: "30 20 * * *"
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger backup via Render app
+        run: |
+          curl -s -o /dev/null -w "HTTP %{http_code}\n" \
+            "https://astrokarmapath-1.onrender.com/data/export/github"
