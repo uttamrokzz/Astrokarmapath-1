@@ -1,0 +1,6457 @@
+{
+  "project": "Astro Databank export",
+  "version": "1.0",
+  "generated": "2026-09-26",
+  "record_count": 160,
+  "persons": {
+    "1965": {
+      "name": "1965",
+      "dob": "1965-12-31",
+      "tob": "15:39:20",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [],
+      "master_category": null,
+      "events": [
+        {
+          "event": null,
+          "start_date": null,
+          "end_date": null,
+          "tags": [],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8037927cc17f9d7ec242"
+        }
+      ],
+      "other_details": {
+        "entry_id": "54",
+        "serial_number": 1,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [
+          "https://app.notion.com/p/3e1d3e92293f809c8ddcfe0e34495d51"
+        ],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816cb086fbdea0c6e293"
+      }
+    },
+    "Abhinav Entry": {
+      "name": "Abhinav Entry",
+      "dob": "1999-08-31",
+      "tob": "16:55:0",
+      "location": "Dhanbad, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": null,
+          "start_date": null,
+          "end_date": null,
+          "tags": [],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e5d3e92293f80ba866de4bcff946166"
+        }
+      ],
+      "other_details": {
+        "entry_id": "99",
+        "serial_number": 2,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f5b3b9cd0619747e84"
+      }
+    },
+    "Abhinav Wizard": {
+      "name": "Abhinav Wizard",
+      "dob": "2000-09-29",
+      "tob": "14:31:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "53",
+        "serial_number": 3,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81689ed0e01c5b690c40"
+      }
+    },
+    "Abhishek": {
+      "name": "Abhishek",
+      "dob": "2000-04-04",
+      "tob": "14:55:0",
+      "location": "Gaya, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "47",
+        "serial_number": 4,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f814fa97cc319d62f5478"
+      }
+    },
+    "Abhishek Ranjan": {
+      "name": "Abhishek Ranjan",
+      "dob": "1997-03-02",
+      "tob": "14:21:0",
+      "location": "Gaya, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "100",
+        "serial_number": 5,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81fe8934cab17c3ebefd"
+      }
+    },
+    "Akshat": {
+      "name": "Akshat",
+      "dob": "1999-03-29",
+      "tob": "3:44:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "76",
+        "serial_number": 6,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81b6a649c74807eb80c8"
+      }
+    },
+    "Alkayda": {
+      "name": "Alkayda",
+      "dob": "2000-07-27",
+      "tob": "4:10:0",
+      "location": "Howrah, West Bengal, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "78",
+        "serial_number": 7,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81b8a5f8daac6306e6eb"
+      }
+    },
+    "aman Kumar Suar": {
+      "name": "aman Kumar Suar",
+      "dob": "1999-08-24",
+      "tob": "3:30:0",
+      "location": "Bhagalpur, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "64",
+        "serial_number": 8,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8182bde9d649e39f534c"
+      }
+    },
+    "Aman Singh Chotu": {
+      "name": "Aman Singh Chotu",
+      "dob": "2001-12-01",
+      "tob": "19:10:0",
+      "location": "Rourkela Airport, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "80",
+        "serial_number": 9,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81bc91d1da57167869a6"
+      }
+    },
+    "Amir Khan": {
+      "name": "Amir Khan",
+      "dob": "1965-03-14",
+      "tob": "6:15:0",
+      "location": "Mumbai Town Hall, Maharashtra",
+      "coordinates": null,
+      "tags": [
+        "Actor \\",
+        "Filmmaker \\",
+        "Producer \\",
+        "Director \\",
+        "Television \\",
+        "Indian Cinema"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [
+        {
+          "event": null,
+          "start_date": null,
+          "end_date": null,
+          "tags": [],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f806986fed6908376742b"
+        },
+        {
+          "event": "Qayamat Se Qayamat Tak breakthrough",
+          "start_date": "1988",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Breakthrough",
+            "Acting"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8114a43af5a070b6c731"
+        },
+        {
+          "event": "Founded Aamir Khan Productions",
+          "start_date": "1999",
+          "end_date": null,
+          "tags": [
+            "Business",
+            "Film production",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f811d9092c6bc952b1916"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1965-03-14",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "Mumbai",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81448c38eaf0cd63201d"
+        },
+        {
+          "event": "First child-acting appearance",
+          "start_date": "1973",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Child actor",
+            "Film"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8163918cd97727d7e59d"
+        },
+        {
+          "event": "First Filmfare Best Actor Award",
+          "start_date": "1996",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "Award",
+            "Acting"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f817d9e10cad8fa7974bd"
+        },
+        {
+          "event": "Padma Shri",
+          "start_date": "2003",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "National honour"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8197986cce43d0da480e"
+        },
+        {
+          "event": "Directed Taare Zameen Par",
+          "start_date": "2007",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Direction",
+            "Film"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81b1b703c576fd883411"
+        },
+        {
+          "event": "Lagaan released",
+          "start_date": "2001",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81b98a6afee9eab1cf8e"
+        },
+        {
+          "event": "Satyamev Jayate began",
+          "start_date": "2012",
+          "end_date": null,
+          "tags": [
+            "Public life",
+            "Television",
+            "Social issues"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c6baf6d0a9596389b4"
+        },
+        {
+          "event": "Padma Bhushan",
+          "start_date": "2010",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "National honour"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81ea9061f63ddfa4c2fb"
+        }
+      ],
+      "other_details": {
+        "entry_id": "89",
+        "serial_number": 10,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [
+          "https://app.notion.com/p/3e1d3e92293f80b48d57c75c82f5717c"
+        ],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e292d2de67276f73f0"
+      }
+    },
+    "Andy Gibb": {
+      "name": "Andy Gibb",
+      "dob": "1958-03-05",
+      "tob": "06:29:59",
+      "location": "Manchester, UK",
+      "coordinates": "53° 28' 50\" N, 02° 14' 13\" W",
+      "tags": [
+        "Singer \\",
+        "Songwriter \\",
+        "Musician \\",
+        "British-American Music"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [
+        {
+          "event": "Death",
+          "start_date": "1988-03-10",
+          "end_date": null,
+          "tags": [
+            "Death",
+            "Health"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8100b1ace3127caf0d01"
+        },
+        {
+          "event": "Shadow Dancing became a major chart success",
+          "start_date": "1978",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Music",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8141a1d3d0d1e6e4c53e"
+        },
+        {
+          "event": "Returned to recording after personal difficulties",
+          "start_date": "1987",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Music"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f814c8278efbb7cd715cd"
+        },
+        {
+          "event": "Hospitalised with chest pains",
+          "start_date": "1988-03-07",
+          "end_date": null,
+          "tags": [
+            "Health"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f816aa297d4b33705cd62"
+        },
+        {
+          "event": "Daughter Peta Jaye Gibb born",
+          "start_date": "1978",
+          "end_date": null,
+          "tags": [
+            "Marriage / Family",
+            "Child"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8183ba8af5ac8eafadf7"
+        },
+        {
+          "event": "Married Kim Reeder",
+          "start_date": "1976",
+          "end_date": null,
+          "tags": [
+            "Marriage / Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81afa1ece947390911a5"
+        },
+        {
+          "event": "Performed on Broadway in The Pirates of Penzance",
+          "start_date": "1981",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81b1b024d3e8f01cb382"
+        },
+        {
+          "event": "Flowing Rivers released",
+          "start_date": "1977",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Music",
+            "Album"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c4ad19fe5b89e6c5bd"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1958-03-05",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "Family",
+            "Music"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81d58ef2d5c703f32d8a"
+        }
+      ],
+      "other_details": {
+        "entry_id": "191",
+        "serial_number": 11,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f81beb29cc3f135f00fde"
+      }
+    },
+    "Aniket Pathak": {
+      "name": "Aniket Pathak",
+      "dob": "1999-12-18",
+      "tob": "0:24:1",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "22",
+        "serial_number": 12,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8100bac0f7fa1e952b4e"
+      }
+    },
+    "Anisha Saha": {
+      "name": "Anisha Saha",
+      "dob": "2001-07-18",
+      "tob": "23:25:0",
+      "location": "Jamui, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "56",
+        "serial_number": 13,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816db54bc964a984e6bb"
+      }
+    },
+    "Anubhav Osh": {
+      "name": "Anubhav Osh",
+      "dob": "2002-08-11",
+      "tob": "0:57:0",
+      "location": "Barbil, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "40",
+        "serial_number": 14,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81368979fca2ac79539f"
+      }
+    },
+    "Anurag Jha": {
+      "name": "Anurag Jha",
+      "dob": "2002-05-17",
+      "tob": "14:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "58",
+        "serial_number": 15,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8171bc51ffac7eafe80e"
+      }
+    },
+    "Arjun": {
+      "name": "Arjun",
+      "dob": "2000-11-01",
+      "tob": "15:25:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "88",
+        "serial_number": 16,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81db9f75de9031f6906c"
+      }
+    },
+    "Ashim": {
+      "name": "Ashim",
+      "dob": "2000-08-01",
+      "tob": "20:33:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "55",
+        "serial_number": 18,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816d8bc7f5ec85ee34bc"
+      }
+    },
+    "Ashish Bhaii": {
+      "name": "Ashish Bhaii",
+      "dob": "2003-11-17",
+      "tob": "17:46:31",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "25",
+        "serial_number": 19,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8107b8dddd7d9b39967d"
+      }
+    },
+    "Ashutosh Surcasa": {
+      "name": "Ashutosh Surcasa",
+      "dob": "1999-10-20",
+      "tob": "11:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "70",
+        "serial_number": 20,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a78c0aedcad2ab7e34"
+      }
+    },
+    "Ashwini": {
+      "name": "Ashwini",
+      "dob": "1999-12-21",
+      "tob": "23:10:59",
+      "location": "Jamadoba, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "28",
+        "serial_number": 21,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810cba1ae3b1ef261129"
+      }
+    },
+    "Astrid Fallon Astrologer": {
+      "name": "Astrid Fallon Astrologer",
+      "dob": "1957-05-12",
+      "tob": "18:10:59",
+      "location": "Charleroi, Wallonia, Belgium",
+      "coordinates": null,
+      "tags": [
+        "Astrologer \\",
+        "Author \\",
+        "Astrology Research"
+      ],
+      "broader_tags": [
+        "Astrology & Occult"
+      ],
+      "master_category": "Astrology & Occult",
+      "events": [],
+      "other_details": {
+        "entry_id": "32",
+        "serial_number": 22,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8113be70ea30efe2c329"
+      }
+    },
+    "Bachi": {
+      "name": "Bachi",
+      "dob": "2000-07-15",
+      "tob": "12:15:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "79",
+        "serial_number": 23,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81bab1e0de4d0e52e297"
+      }
+    },
+    "Bhanja": {
+      "name": "Bhanja",
+      "dob": "1998-07-11",
+      "tob": "19:25:0",
+      "location": "Saraikela, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "83",
+        "serial_number": 24,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ca82b2cb5da5a0a1d8"
+      }
+    },
+    "Boris Cyrulnik": {
+      "name": "Boris Cyrulnik",
+      "dob": "1937-07-26",
+      "tob": "17:59:00",
+      "location": "Bordeaux, France",
+      "coordinates": "44° 49' 59\" N, 00° 34' 00\" W",
+      "tags": [
+        "Psychiatrist \\",
+        "Neurologist \\",
+        "Author \\",
+        "French Public Intellectual"
+      ],
+      "broader_tags": [
+        "Science & Medicine"
+      ],
+      "master_category": "Science & Medicine",
+      "events": [
+        {
+          "event": "Mémoire de singe et paroles d'homme published",
+          "start_date": "1983",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Writing",
+            "Psychology"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81418dbcde493ec6bbbf"
+        },
+        {
+          "event": "Sous le signe du lien published",
+          "start_date": "1989",
+          "end_date": null,
+          "tags": [
+            "Writing",
+            "Psychology"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f814a814fdb5ee624823a"
+        },
+        {
+          "event": "Survived wartime persecution as a child",
+          "start_date": "1943",
+          "end_date": null,
+          "tags": [
+            "Major life event",
+            "Childhood"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f815884e0fff818c34b30"
+        },
+        {
+          "event": "Awarded Prix Renaudot de l'essai",
+          "start_date": "2008",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "Award",
+            "Writing"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8161af02ee2514d7db19"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1937-07-26",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "Bordeaux",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f818a97cdcf472376cebd"
+        },
+        {
+          "event": "Un merveilleux malheur published",
+          "start_date": "1999",
+          "end_date": null,
+          "tags": [
+            "Writing",
+            "Resilience"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81bc949fe992d10935b4"
+        },
+        {
+          "event": "Began professional medical career",
+          "start_date": "1960s",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Psychiatry"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81e69e69ef29cb152008"
+        },
+        {
+          "event": "Studied medicine and pursued psychiatry",
+          "start_date": "1950s",
+          "end_date": null,
+          "tags": [
+            "Education",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81f6a318fe59b54f4680"
+        }
+      ],
+      "other_details": {
+        "entry_id": "188",
+        "serial_number": 25,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f818fb34ff0c082cd99fd"
+      }
+    },
+    "Car Prashna": {
+      "name": "Car Prashna",
+      "dob": "2026-07-10",
+      "tob": "12:36:0",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "96",
+        "serial_number": 26,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ef80c7ef3fa1a9364c"
+      }
+    },
+    "Cgl 1 1st coil": {
+      "name": "Cgl 1 1st coil",
+      "dob": "2025-06-09",
+      "tob": "13:00",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "1st coil produced",
+          "start_date": "9/6/2025",
+          "end_date": "13:00",
+          "tags": [
+            "1st hot run coil"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f80f3a9d7d86d32e2d4e3"
+        }
+      ],
+      "other_details": {
+        "entry_id": "195",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8091a2dbe04257bf721b"
+      }
+    },
+    "Chandrakant": {
+      "name": "Chandrakant",
+      "dob": "1997-06-01",
+      "tob": "21:0:0",
+      "location": "Khamgaon, Maharashtra",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "62",
+        "serial_number": 27,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f817d85e0c43e63ae26ed"
+      }
+    },
+    "Charlene Gallego": {
+      "name": "Charlene Gallego",
+      "dob": "1956-10-19",
+      "tob": "14:49:59",
+      "location": "Stockton, USA",
+      "coordinates": "37° 57' 27\" N, 121° 17' 26\" W",
+      "tags": [
+        "Criminal Figure \\",
+        "Convicted Murderer \\",
+        "Serial Killer"
+      ],
+      "broader_tags": [
+        "Crime & Law"
+      ],
+      "master_category": "Crime & Law",
+      "events": [],
+      "other_details": {
+        "entry_id": "184",
+        "serial_number": 28,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f814886b4ff171f821e64"
+      }
+    },
+    "Chart 4": {
+      "name": "Chart 4",
+      "dob": "1986-06-15",
+      "tob": "9:52:0",
+      "location": "Trichur, Kerala, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "46",
+        "serial_number": 29,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f814fa0e8d321a1144e75"
+      }
+    },
+    "Chart 6": {
+      "name": "Chart 6",
+      "dob": "2005-11-22",
+      "tob": "8:54:0",
+      "location": "Mohali, Punjab, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "39",
+        "serial_number": 30,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81358d0bc906fad51bc6"
+      }
+    },
+    "Chart 7": {
+      "name": "Chart 7",
+      "dob": "2005-09-06",
+      "tob": "19:32:0",
+      "location": "Sonipat, Haryana, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "65",
+        "serial_number": 31,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81929882edabc66ff50e"
+      }
+    },
+    "Chris Farley": {
+      "name": "Chris Farley",
+      "dob": "1964-02-05",
+      "tob": "15:34:00",
+      "location": "Madison, USA",
+      "coordinates": "43° 04' 23\" N, 89° 24' 03\" W",
+      "tags": [
+        "Actor \\",
+        "Comedian \\",
+        "Writer \\",
+        "Producer \\",
+        "Television \\",
+        "Film"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [],
+      "other_details": {
+        "entry_id": "192",
+        "serial_number": 32,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f81cfaa12ca4d4e0ccb11"
+      }
+    },
+    "Clovis Hugues": {
+      "name": "Clovis Hugues",
+      "dob": "1851-11-03",
+      "tob": "03:00:00",
+      "location": "(Not specified)",
+      "coordinates": "43° 49' 55\" N, 05° 12' 20\" E",
+      "tags": [
+        "Poet \\",
+        "Journalist \\",
+        "Writer \\",
+        "Politician \\",
+        "French Literature"
+      ],
+      "broader_tags": [
+        "Literature & Journalism"
+      ],
+      "master_category": "Literature & Journalism",
+      "events": [
+        {
+          "event": "Imprisoned for writings favorable to the Paris Commune",
+          "start_date": "1871-1875",
+          "end_date": null,
+          "tags": [
+            "Legal",
+            "Political life"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81128f0cf7bbd60cf115"
+        },
+        {
+          "event": "Participated in the Commune of Marseille",
+          "start_date": "1871",
+          "end_date": null,
+          "tags": [
+            "Political life",
+            "Activism"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81488e30ddaa46814b32"
+        },
+        {
+          "event": "Death",
+          "start_date": "1907-06-11",
+          "end_date": null,
+          "tags": [
+            "Death"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81adbd09fd60a899fe57"
+        },
+        {
+          "event": "Elected majoral of the Félibrige",
+          "start_date": "1898",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "Literature"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81b3abf0cb08a0f7222c"
+        },
+        {
+          "event": "Elected deputy for Marseille",
+          "start_date": "1881",
+          "end_date": null,
+          "tags": [
+            "Political life",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81b58b69f6c7d984734f"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1851-11-03",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "France",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c586d1f4852943dcf7"
+        },
+        {
+          "event": "Married Jeanne Royannez",
+          "start_date": "1877",
+          "end_date": null,
+          "tags": [
+            "Marriage / Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81f8b08fd8e2716dd6d5"
+        }
+      ],
+      "other_details": {
+        "entry_id": "190",
+        "serial_number": 33,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f819dacb8f8a60d4074ee"
+      }
+    },
+    "Debasis Entry": {
+      "name": "Debasis Entry",
+      "dob": "1998-07-14",
+      "tob": "1:50:0",
+      "location": "Balasore, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "29",
+        "serial_number": 34,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810e9820e35ceb387ba3"
+      }
+    },
+    "Deepak Mishra": {
+      "name": "Deepak Mishra",
+      "dob": "2000-01-24",
+      "tob": "22:55:00",
+      "location": "Jamshedpur, India",
+      "coordinates": "22° 48' 15\" N, 86° 12' 10\" E",
+      "tags": [
+        "(Personal Chart)"
+      ],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": "Other / Specialized",
+      "events": [],
+      "other_details": {
+        "entry_id": "189",
+        "serial_number": 35,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f819cb13efadafc59086b"
+      }
+    },
+    "Deepanshu Giri": {
+      "name": "Deepanshu Giri",
+      "dob": "1985-05-05",
+      "tob": "11:33:38",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "coordinates": null,
+      "tags": [
+        "Astrologer \\",
+        "Astrology Teacher \\",
+        "Vedic Astrology"
+      ],
+      "broader_tags": [
+        "Astrology & Occult"
+      ],
+      "master_category": "Astrology & Occult",
+      "events": [],
+      "other_details": {
+        "entry_id": "91",
+        "serial_number": 36,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e6a88df630427d1d30"
+      }
+    },
+    "Desi Bouterse": {
+      "name": "Desi Bouterse",
+      "dob": "1945-10-13",
+      "tob": "07:04:59",
+      "location": "Dornburg (App spelling)",
+      "coordinates": "05° 30' 00\" N, 55° 00' 00\" W",
+      "tags": [
+        "Political Leader \\",
+        "President \\",
+        "Military Leader \\",
+        "Suriname Politics \\",
+        "Criminal Figure \\",
+        "Drug Trafficking"
+      ],
+      "broader_tags": [
+        "Politics & Public Leadership"
+      ],
+      "master_category": "Politics & Public Leadership",
+      "events": [],
+      "other_details": {
+        "entry_id": "183",
+        "serial_number": 37,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8139814bcf45df97ba3d"
+      }
+    },
+    "Dog Lover": {
+      "name": "Dog Lover",
+      "dob": "2026-03-09",
+      "tob": "7:2:44",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "63",
+        "serial_number": 38,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8182a547d5330a6d64cb"
+      }
+    },
+    "Gaari Chillu": {
+      "name": "Gaari Chillu",
+      "dob": "2026-04-22",
+      "tob": "18:28:25",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "84",
+        "serial_number": 39,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ceab3cdad728fe633f"
+      }
+    },
+    "Ganesh": {
+      "name": "Ganesh",
+      "dob": "2001-09-20",
+      "tob": "23:55:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "71",
+        "serial_number": 40,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a791e3df87d54c3693"
+      }
+    },
+    "Giuseppe Adami": {
+      "name": "Giuseppe Adami",
+      "dob": "1878-02-04",
+      "tob": "16:14:59",
+      "location": "Verona, Veneto, Italy",
+      "coordinates": null,
+      "tags": [
+        "Playwright \\",
+        "Librettist \\",
+        "Music Critic \\",
+        "Journalist \\",
+        "Italian Theatre"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [
+        {
+          "event": "Published Giacomo Puccini biography",
+          "start_date": "1935",
+          "end_date": null,
+          "tags": [
+            "Writing",
+            "Biography"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f810183e1dce36daf33f9"
+        },
+        {
+          "event": "Death",
+          "start_date": "1946-10-12",
+          "end_date": null,
+          "tags": [
+            "Death"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8101a7f4c156f90dc59f"
+        },
+        {
+          "event": "Collaborated with Puccini on La rondine",
+          "start_date": "1917",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Opera",
+            "Collaboration"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8108a155df93eb928611"
+        },
+        {
+          "event": "Collaborated with Puccini on Il tabarro",
+          "start_date": "1918",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Opera",
+            "Collaboration"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f811899fbd94fc3c830f5"
+        },
+        {
+          "event": "Collaborated with Puccini on Turandot",
+          "start_date": "1926",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Opera",
+            "Collaboration"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f818f8c31e5322ccba6d4"
+        },
+        {
+          "event": "La leggenda valacca published",
+          "start_date": "1912-10",
+          "end_date": null,
+          "tags": [
+            "Writing",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f819a9a8eee52843c0edf"
+        },
+        {
+          "event": "Graduated in Law from University of Padua",
+          "start_date": "1900s",
+          "end_date": null,
+          "tags": [
+            "Education"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81bba5ddfbedfe227d7c"
+        },
+        {
+          "event": "Began work as playwright and writer",
+          "start_date": "1900s",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Literature"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c4ab88ff491a1c8699"
+        },
+        {
+          "event": "Published Puccini letters in Epistolario",
+          "start_date": "1928",
+          "end_date": null,
+          "tags": [
+            "Writing",
+            "Biography"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81e7ae8ae1db19b7aaf4"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1878-02-04",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "Verona",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81fa94fec72e089ab7ee"
+        }
+      ],
+      "other_details": {
+        "entry_id": "60",
+        "serial_number": 41,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f817998a7ce0b99b4d570"
+      }
+    },
+    "Hrithik": {
+      "name": "Hrithik",
+      "dob": "2000-07-10",
+      "tob": "10:44:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "94",
+        "serial_number": 42,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ec9aa0eab54c1dd692"
+      }
+    },
+    "Jackie Curtis": {
+      "name": "Jackie Curtis",
+      "dob": "1947-02-19",
+      "tob": "16:09:59",
+      "location": "New York City, USA",
+      "coordinates": "40° 42' 51\" N, 74° 00' 20\" W",
+      "tags": [
+        "Actor \\",
+        "Writer \\",
+        "Performance Artist \\",
+        "New York Art Scene \\",
+        "Theatre"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [
+        {
+          "event": "Glamour, Glory and Gold written",
+          "start_date": "1967",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Writing",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8112b838ffe0ccb35bba"
+        },
+        {
+          "event": "Vain Victory: Vicissitudes of the Damned written",
+          "start_date": "1971",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Writing",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f813cabc0d414622f6acc"
+        },
+        {
+          "event": "Amerika Cleopatra written",
+          "start_date": "1968",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Writing",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f814b8960d10b46b3a3dc"
+        },
+        {
+          "event": "Became associated with Andy Warhol's artistic circle",
+          "start_date": "1970s",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Art",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f815e957dff6c8d8a312e"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1947-02-19",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "New York",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81739203ce948046b486"
+        },
+        {
+          "event": "Stage debut in Miss Nefertiti Regrets",
+          "start_date": "1965",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81bdb506e45075f983b4"
+        },
+        {
+          "event": "Death",
+          "start_date": "1985-05-15",
+          "end_date": null,
+          "tags": [
+            "Death"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81fe97c2e067917f5dd9"
+        }
+      ],
+      "other_details": {
+        "entry_id": "187",
+        "serial_number": 43,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8172ab46c49e3b9422a9"
+      }
+    },
+    "Jacques Chirac": {
+      "name": "Jacques Chirac",
+      "dob": "1932-11-29",
+      "tob": null,
+      "location": "Paris, France",
+      "coordinates": null,
+      "tags": [
+        "French politician \\",
+        "Prime Minister of France \\",
+        "President of France \\",
+        "Mayor of Paris \\",
+        "Gaullist"
+      ],
+      "broader_tags": [
+        "Politics & Public Leadership"
+      ],
+      "master_category": "Politics & Public Leadership",
+      "events": [
+        {
+          "event": "Created the Chirac Foundation",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Humanitarian",
+            "Sustainable development",
+            "Dialogue between cultures",
+            "Foundation"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8101bdf7c9d36ec42779"
+        },
+        {
+          "event": "Second term as Prime Minister — cohabitation",
+          "start_date": null,
+          "end_date": "10 May 1988",
+          "tags": [
+            "Politics",
+            "Prime Minister",
+            "France",
+            "Cohabitation"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81039a29e0c4fa2c1fa4"
+        },
+        {
+          "event": "Elected Mayor of Paris",
+          "start_date": null,
+          "end_date": "16 May 1995",
+          "tags": [
+            "Politics",
+            "Mayor",
+            "Paris",
+            "Local government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81068bc8e360f57aca5c"
+        },
+        {
+          "event": "Elected President of the International Association of Francophone Mayors",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Politics",
+            "Francophonie",
+            "Mayors"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8120be59df41fe22357d"
+        },
+        {
+          "event": "Elected President of France",
+          "start_date": null,
+          "end_date": "16 May 2007",
+          "tags": [
+            "Politics",
+            "President",
+            "France",
+            "Élysée"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f812daad2eae7c81a8c95"
+        },
+        {
+          "event": "Death",
+          "start_date": null,
+          "end_date": "26 Sep 2019",
+          "tags": [
+            "Death",
+            "Paris",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8169b8e6f1291bed31c2"
+        },
+        {
+          "event": "Elected Member of the European Parliament",
+          "start_date": null,
+          "end_date": "1980",
+          "tags": [
+            "Politics",
+            "European Parliament",
+            "Europe"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81a984e2e5e108baa9a8"
+        },
+        {
+          "event": "Re-elected President of France",
+          "start_date": null,
+          "end_date": "5 May 2002",
+          "tags": [
+            "Politics",
+            "Election",
+            "Presidency",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81c784bfc78a3dd1de18"
+        },
+        {
+          "event": "Left the Élysée Palace",
+          "start_date": null,
+          "end_date": "16 May 2007",
+          "tags": [
+            "Politics",
+            "Presidency",
+            "Retirement"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81e48496e5808ecd7453"
+        },
+        {
+          "event": "Founded the Rassemblement pour la République (RPR)",
+          "start_date": null,
+          "end_date": "5 Dec 1976",
+          "tags": [
+            "Politics",
+            "RPR",
+            "Party leadership"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81e99254cd6df862ba47"
+        },
+        {
+          "event": "Inaugurated as President of France",
+          "start_date": null,
+          "end_date": "17 May 1995",
+          "tags": [
+            "Politics",
+            "Presidency",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81f9a481ee1e233ad8c0"
+        },
+        {
+          "event": "Minister of State for Social Affairs — Employment",
+          "start_date": null,
+          "end_date": "1968",
+          "tags": [
+            "Government",
+            "Employment",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81399ba0f84bafdc05f6"
+        },
+        {
+          "event": "First term as Prime Minister of France",
+          "start_date": null,
+          "end_date": "25 Aug 1976",
+          "tags": [
+            "Politics",
+            "Prime Minister",
+            "France",
+            "Government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f815399ede900e8396b41"
+        },
+        {
+          "event": "Minister Delegate for Relations with Parliament",
+          "start_date": null,
+          "end_date": "1972",
+          "tags": [
+            "Government",
+            "Parliament",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f815b84a4f8b5b5bf1f6d"
+        },
+        {
+          "event": "Birth",
+          "start_date": null,
+          "end_date": "29 Nov 1932",
+          "tags": [
+            "Birth",
+            "Paris",
+            "France",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f817291c7e990c44d1e62"
+        },
+        {
+          "event": "Resigned as Prime Minister",
+          "start_date": null,
+          "end_date": "25 Aug 1976",
+          "tags": [
+            "Politics",
+            "Resignation",
+            "Government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8179986ce39edca396ee"
+        },
+        {
+          "event": "Minister of State for Economy and Finance",
+          "start_date": null,
+          "end_date": "1971",
+          "tags": [
+            "Government",
+            "Finance",
+            "Economy"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81b49703ddcea6f00ef7"
+        },
+        {
+          "event": "Marriage to Bernadette Chodron de Courcel",
+          "start_date": null,
+          "end_date": "16 Mar 1956",
+          "tags": [
+            "Marriage",
+            "Family",
+            "Bernadette Chirac"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81b5bbf8d605f252c15d"
+        },
+        {
+          "event": "Elected Deputy for Corrèze",
+          "start_date": null,
+          "end_date": "1967",
+          "tags": [
+            "Politics",
+            "Parliament",
+            "Corrèze"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81bdba2eea5ba06bfc0d"
+        },
+        {
+          "event": "Minister of Agriculture and Rural Development",
+          "start_date": null,
+          "end_date": "1974",
+          "tags": [
+            "Government",
+            "Agriculture",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81c0a88feab2b5aea91e"
+        },
+        {
+          "event": "Joined the Cour des Comptes and government administration",
+          "start_date": null,
+          "end_date": "1965",
+          "tags": [
+            "Career",
+            "Civil service",
+            "Cour des Comptes"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81c8a9d2c417dbc9080f"
+        },
+        {
+          "event": "Minister of the Interior",
+          "start_date": null,
+          "end_date": "1974",
+          "tags": [
+            "Government",
+            "Interior",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81e5b130d9ea0c9c0d69"
+        },
+        {
+          "event": "Entered the École Nationale d'Administration",
+          "start_date": null,
+          "end_date": "1959",
+          "tags": [
+            "Education",
+            "ENA",
+            "Public administration"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81e8b71fdce557f22a0d"
+        }
+      ],
+      "other_details": {
+        "entry_id": "204",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e2d3e92293f81bcac16e47cd244a379"
+      }
+    },
+    "Jahavi": {
+      "name": "Jahavi",
+      "dob": "2003-01-27",
+      "tob": "5:53:0",
+      "location": "Noamundi, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "36",
+        "serial_number": 44,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8120b0b4cc4f08c78c9a"
+      }
+    },
+    "Jai Bahadur": {
+      "name": "Jai Bahadur",
+      "dob": "2001-07-18",
+      "tob": "10:25:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "45",
+        "serial_number": 45,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8149aa3bf29345ce2576"
+      }
+    },
+    "Jean Cocteau": {
+      "name": "Jean Cocteau",
+      "dob": "1889-07-05",
+      "tob": "00:59:59",
+      "location": "Maisons-Alfort, France",
+      "coordinates": "48° 47' 58\" N, 02° 25' 59\" E",
+      "tags": [
+        "Poet \\",
+        "Writer \\",
+        "Playwright \\",
+        "Filmmaker \\",
+        "Visual Artist \\",
+        "French Arts"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [
+        {
+          "event": "Left home",
+          "start_date": "1904",
+          "end_date": null,
+          "tags": [
+            "Major life event",
+            "Youth"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81159716f903b47f660f"
+        },
+        {
+          "event": "First volume of poetry published",
+          "start_date": "1908",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Writing",
+            "Poetry"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8117a06bdb27295717ef"
+        },
+        {
+          "event": "Death",
+          "start_date": "1963-10-11",
+          "end_date": null,
+          "tags": [
+            "Death",
+            "Health"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8118b264d95078e93cec"
+        },
+        {
+          "event": "Attended Lycée Condorcet",
+          "start_date": "1900-1904",
+          "end_date": null,
+          "tags": [
+            "Education"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f811bb271d74b58c586e0"
+        },
+        {
+          "event": "Final film Le Testament d'Orphée",
+          "start_date": "1960",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81499246ef8b805e5c2d"
+        },
+        {
+          "event": "Les Parents terribles released",
+          "start_date": "1948",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film",
+            "Theatre"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f815b81bfd218704a6104"
+        },
+        {
+          "event": "Beauty and the Beast released",
+          "start_date": "1946",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81a0aa0df38dd5fc4c9a"
+        },
+        {
+          "event": "Severe heart attack",
+          "start_date": "1963-04-22",
+          "end_date": null,
+          "tags": [
+            "Health"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81bcbd03c21a440d1dc5"
+        },
+        {
+          "event": "The Blood of a Poet released",
+          "start_date": "1930",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film",
+            "Direction"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c69148d271eec69b2f"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1889-07-05",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "France",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81ce961fcb670620b7bb"
+        },
+        {
+          "event": "Decorated Chapelle Saint-Pierre",
+          "start_date": "1956",
+          "end_date": null,
+          "tags": [
+            "Art",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81ec9531e4b93bac28a5"
+        },
+        {
+          "event": "Orpheus released",
+          "start_date": "1949",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Film",
+            "Recognition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81ecaac1e910daeed67b"
+        }
+      ],
+      "other_details": {
+        "entry_id": "193",
+        "serial_number": 46,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f81f19320ec87518ccd61"
+      }
+    },
+    "Jean-Luc Dehaene": {
+      "name": "Jean-Luc Dehaene",
+      "dob": "1940-08-07",
+      "tob": null,
+      "location": "Montpellier, France",
+      "coordinates": null,
+      "tags": [
+        "Belgian politician \\",
+        "Prime Minister of Belgium \\",
+        "Deputy Prime Minister \\",
+        "Institutional reform \\",
+        "European politics"
+      ],
+      "broader_tags": [
+        "Politics & Public Leadership"
+      ],
+      "master_category": "Politics & Public Leadership",
+      "events": [
+        {
+          "event": "First government and Belgian state reform",
+          "start_date": null,
+          "end_date": "1995",
+          "tags": [
+            "Government",
+            "State reform",
+            "Federal Belgium",
+            "Constitutional reform"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8102bd66c09c0c2bd6a5"
+        },
+        {
+          "event": "Vice-President of the Convention on the Future of Europe",
+          "start_date": null,
+          "end_date": "2003",
+          "tags": [
+            "Europe",
+            "European Union",
+            "Convention"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8120b44ddce405bc39b1"
+        },
+        {
+          "event": "Death",
+          "start_date": null,
+          "end_date": "15 May 2014",
+          "tags": [
+            "Death",
+            "Quimper",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f812c9042cc177202425a"
+        },
+        {
+          "event": "UEFA financial fair play involvement",
+          "start_date": null,
+          "end_date": "2014",
+          "tags": [
+            "UEFA",
+            "Football",
+            "Financial regulation",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8131b52ce5c301dcf5ff"
+        },
+        {
+          "event": "Minister of Social Affairs and Institutional Reform",
+          "start_date": null,
+          "end_date": "8 May 1988",
+          "tags": [
+            "Government",
+            "Social Affairs",
+            "Institutional Reform",
+            "Belgium"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81528344e36a46238b62"
+        },
+        {
+          "event": "National political and ministerial office work",
+          "start_date": null,
+          "end_date": "1981",
+          "tags": [
+            "Politics",
+            "Government",
+            "Ministerial adviser"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8153b8b9d9bea5dcb518"
+        },
+        {
+          "event": "Deputy Prime Minister and Minister of Communications and Institutional Reform",
+          "start_date": null,
+          "end_date": "6 Mar 1992",
+          "tags": [
+            "Government",
+            "Deputy Prime Minister",
+            "Communications",
+            "Institutional Reform"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8163a624ea2d14245f1e"
+        },
+        {
+          "event": "Completed law studies and entered political movement",
+          "start_date": null,
+          "end_date": "1965",
+          "tags": [
+            "Education",
+            "Law",
+            "Politics",
+            "ACW"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8189830eeab17368d37a"
+        },
+        {
+          "event": "Research/attaché work with ACW",
+          "start_date": null,
+          "end_date": "1972",
+          "tags": [
+            "Career",
+            "Christian workers movement",
+            "ACW"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81b4b472eaf9d5d87b99"
+        },
+        {
+          "event": "Mayor of Vilvoorde",
+          "start_date": null,
+          "end_date": "2007",
+          "tags": [
+            "Politics",
+            "Mayor",
+            "Vilvoorde",
+            "Local government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81bfa370eb9b6aefad9e"
+        },
+        {
+          "event": "Senator",
+          "start_date": null,
+          "end_date": "1987",
+          "tags": [
+            "Politics",
+            "Senate",
+            "Belgium"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81c987b0ede1a6d907b2"
+        },
+        {
+          "event": "Birth",
+          "start_date": null,
+          "end_date": "7 Aug 1940",
+          "tags": [
+            "Birth",
+            "Montpellier",
+            "France",
+            "Belgium"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81d68a4ffb04033f7db1"
+        },
+        {
+          "event": "Second government",
+          "start_date": null,
+          "end_date": "1999",
+          "tags": [
+            "Government",
+            "Prime Minister",
+            "Belgium",
+            "Coalition"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81e38a9ccc80a5fef358"
+        },
+        {
+          "event": "Elected Prime Minister of Belgium",
+          "start_date": null,
+          "end_date": "12 Jul 1999",
+          "tags": [
+            "Politics",
+            "Prime Minister",
+            "Belgium",
+            "Government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81ed80c3da1ea276394a"
+        },
+        {
+          "event": "Member of the European Parliament",
+          "start_date": null,
+          "end_date": "15 May 2014",
+          "tags": [
+            "Politics",
+            "European Parliament",
+            "Europe"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81f18381d9f168e01636"
+        }
+      ],
+      "other_details": {
+        "entry_id": "205",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e2d3e92293f810f9be8d134e7c38cf7"
+      }
+    },
+    "Jr Jonty": {
+      "name": "Jr Jonty",
+      "dob": "2025-12-16",
+      "tob": "23:17:0",
+      "location": "Bhubaneshwar, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "35",
+        "serial_number": 47,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f811da5b5c21671b3a4ac"
+      }
+    },
+    "Karan Kant": {
+      "name": "Karan Kant",
+      "dob": "2001-06-13",
+      "tob": "13:15:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "75",
+        "serial_number": 48,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81acaacfc70b23fdc9f9"
+      }
+    },
+    "Komal Kant": {
+      "name": "Komal Kant",
+      "dob": "1999-06-13",
+      "tob": "12:45:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "77",
+        "serial_number": 49,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81b88a7ed32ab49bd259"
+      }
+    },
+    "Krishna": {
+      "name": "Krishna",
+      "dob": "2000-08-19",
+      "tob": "18:31:5",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "97",
+        "serial_number": 50,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f08d3ec57b4c55a5f3"
+      }
+    },
+    "Kunal": {
+      "name": "Kunal",
+      "dob": "2000-01-08",
+      "tob": "8:14:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "73",
+        "serial_number": 51,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81aaa53be5cf9fcaf3f9"
+      }
+    },
+    "Lara": {
+      "name": "Lara",
+      "dob": "2002-03-05",
+      "tob": "20:30:0",
+      "location": "Delhi, NCT, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "61",
+        "serial_number": 52,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f817c952be50d3c42db74"
+      }
+    },
+    "Laurent Fabius": {
+      "name": "Laurent Fabius",
+      "dob": "1946-08-20",
+      "tob": null,
+      "location": "Paris, France",
+      "coordinates": null,
+      "tags": [
+        "French politician \\",
+        "Prime Minister of France \\",
+        "President of the National Assembly \\",
+        "Foreign Minister \\",
+        "Constitutional Council"
+      ],
+      "broader_tags": [
+        "Politics & Public Leadership"
+      ],
+      "master_category": "Politics & Public Leadership",
+      "events": [
+        {
+          "event": "Minister of Foreign Affairs and International Development",
+          "start_date": null,
+          "end_date": "2016",
+          "tags": [
+            "Government",
+            "Foreign Affairs",
+            "International Development"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f811d9667c9bce6129f6b"
+        },
+        {
+          "event": "Member of the European Parliament",
+          "start_date": null,
+          "end_date": "1992",
+          "tags": [
+            "Politics",
+            "European Parliament",
+            "Europe"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81269904d97076856d4a"
+        },
+        {
+          "event": "President of the National Assembly — second term",
+          "start_date": null,
+          "end_date": "2000",
+          "tags": [
+            "Politics",
+            "National Assembly",
+            "Leadership"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8149b1d2d8810b6a8c92"
+        },
+        {
+          "event": "President of the Constitutional Council",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Constitutional Council",
+            "Public office",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81609cccd81280f747df"
+        },
+        {
+          "event": "Minister of Foreign Affairs",
+          "start_date": null,
+          "end_date": "2 Apr 2014",
+          "tags": [
+            "Government",
+            "Foreign Affairs",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81a1a320db7d7fb49060"
+        },
+        {
+          "event": "Campaign against the European Constitutional Treaty",
+          "start_date": null,
+          "end_date": "2005",
+          "tags": [
+            "Politics",
+            "European Union",
+            "Referendum"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81ec9ca6d60a158f2c9e"
+        },
+        {
+          "event": "Minister of Economy, Finance and Industry",
+          "start_date": null,
+          "end_date": "May 2002",
+          "tags": [
+            "Government",
+            "Finance",
+            "Economy",
+            "Industry"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81fa8f29f83077a7a43f"
+        },
+        {
+          "event": "Returned to Parliament after premiership",
+          "start_date": null,
+          "end_date": "1986",
+          "tags": [
+            "Politics",
+            "Parliament",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81159ceedee408f55d34"
+        },
+        {
+          "event": "President of the National Assembly",
+          "start_date": null,
+          "end_date": "1992",
+          "tags": [
+            "Politics",
+            "National Assembly",
+            "Leadership"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f811db2bbd5255ce5948b"
+        },
+        {
+          "event": "Minister Delegate for the Budget",
+          "start_date": null,
+          "end_date": "Mar 1983",
+          "tags": [
+            "Government",
+            "Finance",
+            "Budget",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81259197f5b5fd8bc310"
+        },
+        {
+          "event": "Elected Deputy for Seine-Maritime",
+          "start_date": null,
+          "end_date": "1978",
+          "tags": [
+            "Politics",
+            "Parliament",
+            "Seine-Maritime",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f813e982aeab0cdf31694"
+        },
+        {
+          "event": "Appointed Prime Minister of France",
+          "start_date": null,
+          "end_date": "20 Mar 1986",
+          "tags": [
+            "Politics",
+            "Prime Minister",
+            "France",
+            "Government"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81519aa9f1dfa4d33edf"
+        },
+        {
+          "event": "Minister of Industry and Research",
+          "start_date": null,
+          "end_date": "Jul 1984",
+          "tags": [
+            "Government",
+            "Industry",
+            "Research",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81538849e1f32d70a0b1"
+        },
+        {
+          "event": "Joined Socialist Party",
+          "start_date": null,
+          "end_date": "1974",
+          "tags": [
+            "Politics",
+            "Socialist Party",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81588719f58c2cb9202a"
+        },
+        {
+          "event": "Director of François Mitterrand's cabinet",
+          "start_date": null,
+          "end_date": "1978",
+          "tags": [
+            "Politics",
+            "François Mitterrand",
+            "Career",
+            "Adviser"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f819488f6c1fb01b41e69"
+        },
+        {
+          "event": "Birth",
+          "start_date": null,
+          "end_date": "20 Aug 1946",
+          "tags": [
+            "Birth",
+            "Paris",
+            "France",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8152abe9c59aad59e5c7"
+        }
+      ],
+      "other_details": {
+        "entry_id": "203",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e2d3e92293f8142b8d6cce024025305"
+      }
+    },
+    "Mallika": {
+      "name": "Mallika",
+      "dob": "2001-12-31",
+      "tob": "4:5:2",
+      "location": "Nawada, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "67",
+        "serial_number": 53,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f819983e5c2143595a1af"
+      }
+    },
+    "Manish Forum": {
+      "name": "Manish Forum",
+      "dob": "1984-08-26",
+      "tob": "19:40:0",
+      "location": "New Delhi, NCT, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "74",
+        "serial_number": 54,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81aca8a2ce9c7a6b3480"
+      }
+    },
+    "Manuel Noriega": {
+      "name": "Manuel Noriega",
+      "dob": "1935-02-11",
+      "tob": "18:59:00",
+      "location": "(Not specified)",
+      "coordinates": "08° 58' 00\" N, 79° 31' 59\" W",
+      "tags": [
+        "Military Leader \\",
+        "Political Leader \\",
+        "Former Ruler \\",
+        "Panama Politics \\",
+        "Criminal Figure \\",
+        "Drug Trafficking"
+      ],
+      "broader_tags": [
+        "Politics & Public Leadership"
+      ],
+      "master_category": "Politics & Public Leadership",
+      "events": [],
+      "other_details": {
+        "entry_id": "185",
+        "serial_number": 55,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8158b804c404cf1a8556"
+      }
+    },
+    "Mark Fidrych": {
+      "name": "Mark Fidrych",
+      "dob": "1954-08-14",
+      "tob": "12:12:59 PM",
+      "location": "Worcester, Massachusetts, USA",
+      "coordinates": "42.2667, -71.8000",
+      "tags": [
+        "Professional Baseball \\",
+        "Athlete \\",
+        "Farmer \\",
+        "Transportation Business \\",
+        "Trucking \\",
+        "Construction Hauling"
+      ],
+      "broader_tags": [
+        "Sports"
+      ],
+      "master_category": "Sports",
+      "events": [
+        {
+          "event": "MLB Draft — Detroit Tigers",
+          "start_date": "1974",
+          "end_date": "1974",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Draft",
+            "10th Round"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f80f1966ccd38a0c2206b"
+        },
+        {
+          "event": "Birth",
+          "start_date": "14 Aug 1954",
+          "end_date": "14 Aug 1954",
+          "tags": [
+            "Birth",
+            "Family",
+            "Worcester",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8028b39dd7c6b784fc31"
+        },
+        {
+          "event": "American League ERA leader",
+          "start_date": "1976",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "Baseball",
+            "Performance"
+          ],
+          "event_type": "Career",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81218a67db591e689570"
+        },
+        {
+          "event": "American League Rookie of the Year",
+          "start_date": "1976",
+          "end_date": null,
+          "tags": [
+            "Recognition",
+            "Award",
+            "Baseball"
+          ],
+          "event_type": "Career",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8128b140fd917ff71116"
+        },
+        {
+          "event": "Major injuries disrupted career",
+          "start_date": "1977",
+          "end_date": null,
+          "tags": [
+            "Health",
+            "Career",
+            "Baseball"
+          ],
+          "event_type": "Health",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8148a030f357cbc0b8b8"
+        },
+        {
+          "event": "Death",
+          "start_date": "2009-04-13",
+          "end_date": null,
+          "tags": [
+            "Death",
+            "Accident"
+          ],
+          "event_type": "Death",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f817d8322f2bb3bb5e742"
+        },
+        {
+          "event": "Major League debut",
+          "start_date": "1976-04-20",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "MLB",
+            "Breakthrough"
+          ],
+          "event_type": "Career",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8195ab1bd902faf262d4"
+        },
+        {
+          "event": "Birth",
+          "start_date": "1954-08-14",
+          "end_date": null,
+          "tags": [
+            "Birth",
+            "Family",
+            "Baseball"
+          ],
+          "event_type": "Birth",
+          "importance": "Major",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81bdb160fcc1e43ebf5e"
+        },
+        {
+          "event": "MLB All-Star selection",
+          "start_date": "1976",
+          "end_date": "1977",
+          "tags": [
+            "Recognition",
+            "Baseball",
+            "All-Star"
+          ],
+          "event_type": "Career",
+          "importance": "Significant",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c1841ec431a0f767b0"
+        },
+        {
+          "event": "Selected by Detroit Tigers in amateur draft",
+          "start_date": "1974",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Baseball",
+            "Major"
+          ],
+          "event_type": "Career",
+          "importance": "Significant",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81c98a38d5854804d177"
+        },
+        {
+          "event": "Final MLB appearance",
+          "start_date": "1980-10-01",
+          "end_date": null,
+          "tags": [
+            "Career",
+            "Baseball"
+          ],
+          "event_type": "Career",
+          "importance": "Significant",
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81ee9a28ee9ee668f9dd"
+        },
+        {
+          "event": "Retirement from Professional Baseball",
+          "start_date": "Jul 1983",
+          "end_date": "Jul 1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Retirement",
+            "Comeback",
+            "Professional Baseball"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81afb19efc7813025460"
+        },
+        {
+          "event": "Death — Dump Truck Accident",
+          "start_date": "13 Apr 2009",
+          "end_date": "13 Apr 2009",
+          "tags": [
+            "Death",
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Dump Truck",
+            "Northborough",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8118aba9dfd8f938bb79"
+        },
+        {
+          "event": "Breakthrough 1976 Season",
+          "start_date": "1976",
+          "end_date": "1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Rookie of the Year",
+            "19 Wins",
+            "2.34 ERA",
+            "24 Complete Games",
+            "All-Star"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8139b860e795d2dc59fc"
+        },
+        {
+          "event": "Farm, Contracting & Trucking Work",
+          "start_date": "1983",
+          "end_date": "2009",
+          "tags": [
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Contracting",
+            "Farming",
+            "Gravel",
+            "Asphalt",
+            "Ten-Wheel Dump Truck"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8152b812e64b1fa94e71"
+        },
+        {
+          "event": "Comeback — Pawtucket Red Sox",
+          "start_date": "1982",
+          "end_date": "1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Boston Red Sox",
+            "Minor League",
+            "Pawtucket"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81848ec3d6e10a4ae970"
+        },
+        {
+          "event": "Major Arm Injury",
+          "start_date": "1977",
+          "end_date": "1977",
+          "tags": [
+            "Baseball",
+            "Injury",
+            "Shoulder",
+            "Rotator Cuff",
+            "Career Interruption"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8185930adc6a2aae31d2"
+        },
+        {
+          "event": "Marriage to Ann Fidrych",
+          "start_date": "1986",
+          "end_date": "1986",
+          "tags": [
+            "Family",
+            "Marriage",
+            "Ann Fidrych"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f819681eaf42fdd49af3c"
+        },
+        {
+          "event": "End of MLB Career",
+          "start_date": "1 Oct 1980",
+          "end_date": "1 Oct 1980",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Final MLB Appearance"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f81f8b98be118c197bb59"
+        },
+        {
+          "event": "MLB Debut",
+          "start_date": "20 Apr 1976",
+          "end_date": "20 Apr 1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "MLB Debut"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f8151900cd72d308e106f"
+        },
+        {
+          "event": "MLB Draft — Detroit Tigers",
+          "start_date": "1974",
+          "end_date": "1974",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Draft",
+            "10th Round"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/c63d3e92293f8298958d811944dd2f5b"
+        },
+        {
+          "event": "Birth",
+          "start_date": "14 Aug 1954",
+          "end_date": "14 Aug 1954",
+          "tags": [
+            "Birth",
+            "Family",
+            "Worcester",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/eded3e92293f83c7b9b7018913bbb225"
+        },
+        {
+          "event": "End of MLB Career",
+          "start_date": "1 Oct 1980",
+          "end_date": "1 Oct 1980",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Final MLB Appearance"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/607d3e92293f82d4b9fd01d55ef1eca1"
+        },
+        {
+          "event": "Retirement from Professional Baseball",
+          "start_date": "Jul 1983",
+          "end_date": "Jul 1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Retirement",
+            "Comeback",
+            "Professional Baseball"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/292d3e92293f82fb8268816c0583de59"
+        },
+        {
+          "event": "Marriage to Ann Fidrych",
+          "start_date": "1986",
+          "end_date": "1986",
+          "tags": [
+            "Family",
+            "Marriage",
+            "Ann Fidrych"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/bd5d3e92293f83c684df81e6629c9023"
+        },
+        {
+          "event": "Major Arm Injury",
+          "start_date": "1977",
+          "end_date": "1977",
+          "tags": [
+            "Baseball",
+            "Injury",
+            "Shoulder",
+            "Rotator Cuff",
+            "Career Interruption"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3bdd3e92293f82c8a90001620a242461"
+        },
+        {
+          "event": "Comeback — Pawtucket Red Sox",
+          "start_date": "1982",
+          "end_date": "1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Boston Red Sox",
+            "Minor League",
+            "Pawtucket"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/787d3e92293f83d9aa2181c7e78287fe"
+        },
+        {
+          "event": "Farm, Contracting & Trucking Work",
+          "start_date": "1983",
+          "end_date": "2009",
+          "tags": [
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Contracting",
+            "Farming",
+            "Gravel",
+            "Asphalt",
+            "Ten-Wheel Dump Truck"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/79cd3e92293f83aeb75d01d0abd78aa6"
+        },
+        {
+          "event": "MLB Debut",
+          "start_date": "20 Apr 1976",
+          "end_date": "20 Apr 1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "MLB Debut"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/c6ed3e92293f8218bcea81414f61028c"
+        },
+        {
+          "event": "Breakthrough 1976 Season",
+          "start_date": "1976",
+          "end_date": "1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Rookie of the Year",
+            "19 Wins",
+            "2.34 ERA",
+            "24 Complete Games",
+            "All-Star"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/c92d3e92293f83b1adf001d235f6caa7"
+        },
+        {
+          "event": "Death — Dump Truck Accident",
+          "start_date": "13 Apr 2009",
+          "end_date": "13 Apr 2009",
+          "tags": [
+            "Death",
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Dump Truck",
+            "Northborough",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/44dd3e92293f83fbb5f881be9b477f76"
+        }
+      ],
+      "other_details": {
+        "entry_id": "194",
+        "serial_number": 56,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [
+          "https://app.notion.com/p/3e1d3e92293f801b9193c5bb297c249f"
+        ],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8174965fc86d2be600ea"
+      }
+    },
+    "Mira Kumari Ashwini": {
+      "name": "Mira Kumari Ashwini",
+      "dob": "1999-06-18",
+      "tob": "21:45:56",
+      "location": "Patratu, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "41",
+        "serial_number": 57,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813facc7f2801fc01fc0"
+      }
+    },
+    "Mohit Sharma": {
+      "name": "Mohit Sharma",
+      "dob": "1978-01-13",
+      "tob": "19:0:37",
+      "location": "Rohtak, Haryana, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Defence"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "90",
+        "serial_number": 58,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e587ffd44e1e5f8976"
+      }
+    },
+    "Mukesh Ambani": {
+      "name": "Mukesh Ambani",
+      "dob": null,
+      "tob": null,
+      "location": null,
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Business & Industry"
+      ],
+      "master_category": "Business & Industry",
+      "events": [],
+      "other_details": {
+        "entry_id": "201",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f80838c6fde84005ed371"
+      }
+    },
+    "Naidu": {
+      "name": "Naidu",
+      "dob": "1994-11-11",
+      "tob": "6:5:0",
+      "location": "Vishakhapatnam Airport, Andhra Pradesh",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "98",
+        "serial_number": 59,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f5a244d92d775ca4c1"
+      }
+    },
+    "Nandu Suar Ref": {
+      "name": "Nandu Suar Ref",
+      "dob": "2001-03-27",
+      "tob": "11:45:0",
+      "location": "Gopalganj, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "51",
+        "serial_number": 60,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8166be96f5d33bdb394e"
+      }
+    },
+    "New Birth Detail": {
+      "name": "New Birth Detail",
+      "dob": null,
+      "tob": null,
+      "location": null,
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "199",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f80a5ae76fd1351ec079a"
+      }
+    },
+    "New Birth Detail [Entry ID 197]": {
+      "name": "New Birth Detail",
+      "dob": null,
+      "tob": null,
+      "location": null,
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "197",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8087a252e4144c85b927"
+      }
+    },
+    "New Birth Detail [Entry ID 202]": {
+      "name": "New Birth Detail",
+      "dob": null,
+      "tob": null,
+      "location": null,
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "202",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f80a690c2fae5e2850d37"
+      }
+    },
+    "Not Getting Married": {
+      "name": "Not Getting Married",
+      "dob": "1989-08-31",
+      "tob": "5:20:43",
+      "location": "Current Location...",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "57",
+        "serial_number": 61,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816e8326fe0799443957"
+      }
+    },
+    "Not Happy": {
+      "name": "Not Happy",
+      "dob": "2026-03-10",
+      "tob": "10:53:11",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "92",
+        "serial_number": 62,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e9bc5ad2cc72c44640"
+      }
+    },
+    "Old Lover": {
+      "name": "Old Lover",
+      "dob": "2026-02-14",
+      "tob": "16:11:43",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "30",
+        "serial_number": 63,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810fa845f349d36e5447"
+      }
+    },
+    "Osh": {
+      "name": "Osh",
+      "dob": "2001-05-24",
+      "tob": "8:36:0",
+      "location": "Barbil, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "34",
+        "serial_number": 64,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f811b8a99ede078277599"
+      }
+    },
+    "Pareshani": {
+      "name": "Pareshani",
+      "dob": "2026-02-01",
+      "tob": "20:46:23",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "37",
+        "serial_number": 65,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8122855afe6857426b76"
+      }
+    },
+    "Peace": {
+      "name": "Peace",
+      "dob": "2026-02-01",
+      "tob": "18:19:22",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "82",
+        "serial_number": 66,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81c68e9de6fc099e8f81"
+      }
+    },
+    "Pen Not working": {
+      "name": "Pen Not working",
+      "dob": "2026-02-12",
+      "tob": "12:12:5",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "49",
+        "serial_number": 67,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8156af1af05e0c44dce1"
+      }
+    },
+    "Phone": {
+      "name": "Phone",
+      "dob": "2026-04-02",
+      "tob": "22:0:27",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "95",
+        "serial_number": 68,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ee84d3deba291dd023"
+      }
+    },
+    "Pinky": {
+      "name": "Pinky",
+      "dob": "2000-04-08",
+      "tob": "4:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "69",
+        "serial_number": 69,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a0954cd23e5078efd4"
+      }
+    },
+    "Piyush Osh Reference": {
+      "name": "Piyush Osh Reference",
+      "dob": "2000-12-07",
+      "tob": "0:30:0",
+      "location": "Barbil, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "87",
+        "serial_number": 70,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81d7a59effd6cbb4b29a"
+      }
+    },
+    "Piyush Prasanna": {
+      "name": "Piyush Prasanna",
+      "dob": "2026-07-15",
+      "tob": "11:3:0",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "42",
+        "serial_number": 71,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813fba03cec03737e217"
+      }
+    },
+    "Poet": {
+      "name": "Poet",
+      "dob": "2026-02-01",
+      "tob": "20:33:46",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "85",
+        "serial_number": 72,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81cebffdc4e2570d9b99"
+      }
+    },
+    "Poett": {
+      "name": "Poett",
+      "dob": "2026-02-02",
+      "tob": "7:24:22",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "86",
+        "serial_number": 73,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81cf858aefa335deecce"
+      }
+    },
+    "Pranati": {
+      "name": "Pranati",
+      "dob": "2000-01-21",
+      "tob": "22:29:0",
+      "location": "Mayurbhanj, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "43",
+        "serial_number": 74,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8140b5f0ecab93bfe175"
+      }
+    },
+    "Pranit": {
+      "name": "Pranit",
+      "dob": "2000-05-18",
+      "tob": "8:38:0",
+      "location": "Ghatsila, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "31",
+        "serial_number": 75,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81129cfcdbcbefb7f5dd"
+      }
+    },
+    "Prasna Sanjay": {
+      "name": "Prasna Sanjay",
+      "dob": "2026-07-20",
+      "tob": "3:15:47",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "24",
+        "serial_number": 76,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81078f81c0a831c9fa1e"
+      }
+    },
+    "Pratik Osh Roomate": {
+      "name": "Pratik Osh Roomate",
+      "dob": "2000-12-28",
+      "tob": "2:45:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "68",
+        "serial_number": 77,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f819bb12ff78ea8b356e2"
+      }
+    },
+    "Pratyusha": {
+      "name": "Pratyusha",
+      "dob": "1998-08-24",
+      "tob": "12:51:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "44",
+        "serial_number": 78,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8146a120fe896194aa86"
+      }
+    },
+    "Prince Aman Ref": {
+      "name": "Prince Aman Ref",
+      "dob": "2000-08-02",
+      "tob": "9:0:0",
+      "location": "Banka, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "27",
+        "serial_number": 79,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810c9220ea66686c378c"
+      }
+    },
+    "Prince Paul": {
+      "name": "Prince Paul",
+      "dob": "2003-01-23",
+      "tob": "15:42:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "93",
+        "serial_number": 80,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81eb9b48e80abc79de19"
+      }
+    },
+    "Priti Reddy": {
+      "name": "Priti Reddy",
+      "dob": "2000-06-09",
+      "tob": "2:0:0",
+      "location": "Durgapur, West Bengal, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "26",
+        "serial_number": 81,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8109a94ef6d3dd996d74"
+      }
+    },
+    "Pritish Abhishek Ranjan": {
+      "name": "Pritish Abhishek Ranjan",
+      "dob": "1993-02-16",
+      "tob": "21:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "66",
+        "serial_number": 82,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81949d47e2392bf443f8"
+      }
+    },
+    "Priya": {
+      "name": "Priya",
+      "dob": "2000-10-19",
+      "tob": "3:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "59",
+        "serial_number": 83,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8173a915ecd3e2b7bcec"
+      }
+    },
+    "Priyanka Kumari": {
+      "name": "Priyanka Kumari",
+      "dob": "1998-07-10",
+      "tob": "21:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "50",
+        "serial_number": 84,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f815c9a5ad1c6acdd61df"
+      }
+    },
+    "Puja": {
+      "name": "Puja",
+      "dob": "2003-09-26",
+      "tob": "10:45:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "81",
+        "serial_number": 85,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81c4b196d31419484c9c"
+      }
+    },
+    "Rahul Mahato": {
+      "name": "Rahul Mahato",
+      "dob": "1999-01-04",
+      "tob": "17:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "72",
+        "serial_number": 86,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a9a032d6d54c10bb7e"
+      }
+    },
+    "Rahul Mishra": {
+      "name": "Rahul Mishra",
+      "dob": "1998-01-23",
+      "tob": "19:1:0",
+      "location": "Darbhanga, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "52",
+        "serial_number": 87,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81679184eb950a16d699"
+      }
+    },
+    "Raj Mishra": {
+      "name": "Raj Mishra",
+      "dob": "2002-11-29",
+      "tob": "18:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "48",
+        "serial_number": 88,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81558f81ddf69bc58785"
+      }
+    },
+    "Rajnikant": {
+      "name": "Rajnikant",
+      "dob": "1950-12-12",
+      "tob": "23:49:0",
+      "location": "Bangalore Urban, Karnataka",
+      "coordinates": null,
+      "tags": [
+        "Actor \\",
+        "Producer \\",
+        "Screenwriter \\",
+        "Indian Cinema \\",
+        "Tamil Cinema"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [],
+      "other_details": {
+        "entry_id": "23",
+        "serial_number": 89,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8105970bc600c71f8986"
+      }
+    },
+    "Random": {
+      "name": "Random",
+      "dob": "2000-12-20",
+      "tob": "11:8:30",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "38",
+        "serial_number": 90,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8128a356d8ef471cd805"
+      }
+    },
+    "Ranjana": {
+      "name": "Ranjana",
+      "dob": "1999-11-13",
+      "tob": "23:45:0",
+      "location": "Motihari, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "179",
+        "serial_number": 91,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f6927ccb3112b954a5"
+      }
+    },
+    "Ravi Abhishek Ranjan": {
+      "name": "Ravi Abhishek Ranjan",
+      "dob": "1998-08-19",
+      "tob": "7:35:0",
+      "location": "Gaya, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "145",
+        "serial_number": 92,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8165abc7d53744361961"
+      }
+    },
+    "Ref Kav": {
+      "name": "Ref Kav",
+      "dob": "2000-09-20",
+      "tob": "17:30:0",
+      "location": "Alappuzha, Kerala",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "133",
+        "serial_number": 93,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813ab740f0111fbed475"
+      }
+    },
+    "Reshav Brother": {
+      "name": "Reshav Brother",
+      "dob": "2001-11-05",
+      "tob": "14:55:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "142",
+        "serial_number": 94,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f814ca2d3f9a2c2b1e02e"
+      }
+    },
+    "Reshav Kumar": {
+      "name": "Reshav Kumar",
+      "dob": "2000-06-12",
+      "tob": "20:4:0",
+      "location": "Rourkela Airport, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "178",
+        "serial_number": 95,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f1b888d3fec4ea6a44"
+      }
+    },
+    "Ritesh": {
+      "name": "Ritesh",
+      "dob": "1994-06-10",
+      "tob": "9:54:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "169",
+        "serial_number": 96,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81cabcb4d039d9e9de08"
+      }
+    },
+    "Rohan": {
+      "name": "Rohan",
+      "dob": "1997-09-08",
+      "tob": "23:44:00",
+      "location": "Jamshedpur, India",
+      "coordinates": "22° 48' 15\" N, 86° 12' 10\" E",
+      "tags": [
+        "Electrical (Profession)"
+      ],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": "Other / Specialized",
+      "events": [],
+      "other_details": {
+        "entry_id": "186",
+        "serial_number": 97,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f8160a0aac1a500ead8a2"
+      }
+    },
+    "Rohan Bhagat": {
+      "name": "Rohan Bhagat",
+      "dob": "2001-09-12",
+      "tob": "1:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "140",
+        "serial_number": 98,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f814bb2a9e24b340a3d98"
+      }
+    },
+    "Rohit": {
+      "name": "Rohit",
+      "dob": "1998-12-18",
+      "tob": "7:54:50",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "MLB Draft — Detroit Tigers",
+          "start_date": "1974",
+          "end_date": "1974",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Draft",
+            "10th Round"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/0c0d3e92293f823bba2f8182c70c9216"
+        },
+        {
+          "event": "Birth",
+          "start_date": "14 Aug 1954",
+          "end_date": "14 Aug 1954",
+          "tags": [
+            "Birth",
+            "Family",
+            "Worcester",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/9d5d3e92293f8364a804016a4de9f31b"
+        },
+        {
+          "event": "Death — Dump Truck Accident",
+          "start_date": "13 Apr 2009",
+          "end_date": "13 Apr 2009",
+          "tags": [
+            "Death",
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Dump Truck",
+            "Northborough",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/e00d3e92293f82a8833f8102c932d142"
+        },
+        {
+          "event": "Major Arm Injury",
+          "start_date": "1977",
+          "end_date": "1977",
+          "tags": [
+            "Baseball",
+            "Injury",
+            "Shoulder",
+            "Rotator Cuff",
+            "Career Interruption"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/a31d3e92293f8371aef6813b72e40e63"
+        },
+        {
+          "event": "MLB Debut",
+          "start_date": "20 Apr 1976",
+          "end_date": "20 Apr 1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "MLB Debut"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/bddd3e92293f83f6bf12813866c24eb4"
+        },
+        {
+          "event": "End of MLB Career",
+          "start_date": "1 Oct 1980",
+          "end_date": "1 Oct 1980",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Final MLB Appearance"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/ecdd3e92293f82f48aac811656e590a7"
+        },
+        {
+          "event": "Farm, Contracting & Trucking Work",
+          "start_date": "1983",
+          "end_date": "2009",
+          "tags": [
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Contracting",
+            "Farming",
+            "Gravel",
+            "Asphalt",
+            "Ten-Wheel Dump Truck"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/005d3e92293f838cb4d10119e17592d5"
+        },
+        {
+          "event": "Comeback — Pawtucket Red Sox",
+          "start_date": "1982",
+          "end_date": "1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Boston Red Sox",
+            "Minor League",
+            "Pawtucket"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3efd3e92293f83d4b590810b9da10b0c"
+        },
+        {
+          "event": "Marriage to Ann Fidrych",
+          "start_date": "1986",
+          "end_date": "1986",
+          "tags": [
+            "Family",
+            "Marriage",
+            "Ann Fidrych"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/612d3e92293f82f495df01bd97004b09"
+        },
+        {
+          "event": "Retirement from Professional Baseball",
+          "start_date": "Jul 1983",
+          "end_date": "Jul 1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Retirement",
+            "Comeback",
+            "Professional Baseball"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/60ed3e92293f83ae92a501fa15bd44d8"
+        },
+        {
+          "event": "Breakthrough 1976 Season",
+          "start_date": "1976",
+          "end_date": "1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Rookie of the Year",
+            "19 Wins",
+            "2.34 ERA",
+            "24 Complete Games",
+            "All-Star"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/45dd3e92293f82cd84d5811642e59f58"
+        }
+      ],
+      "other_details": {
+        "entry_id": "165",
+        "serial_number": 99,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81af93a5f32625980214"
+      }
+    },
+    "Rounit": {
+      "name": "Rounit",
+      "dob": "2001-01-04",
+      "tob": "17:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "143",
+        "serial_number": 100,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8155b1b2c8c9bf0b1c8d"
+      }
+    },
+    "Ruling Planet": {
+      "name": "Ruling Planet",
+      "dob": "2025-03-06",
+      "tob": "3:58:13",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "171",
+        "serial_number": 101,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81d3bf52d915dd217b77"
+      }
+    },
+    "Rupa Rani": {
+      "name": "Rupa Rani",
+      "dob": "1999-05-20",
+      "tob": "2:27:0",
+      "location": "Noamundi, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "155",
+        "serial_number": 102,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f818e9f85cd30b49e2b00"
+      }
+    },
+    "Sahil Lambu": {
+      "name": "Sahil Lambu",
+      "dob": "2000-09-21",
+      "tob": "11:15:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "130",
+        "serial_number": 104,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f812eb703d7b3f24736cc"
+      }
+    },
+    "Sahil Scheme": {
+      "name": "Sahil Scheme",
+      "dob": "1999-12-04",
+      "tob": "20:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "122",
+        "serial_number": 105,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810a92d8d7c2a6dd5f9b"
+      }
+    },
+    "Saliesh Bhaiya": {
+      "name": "Saliesh Bhaiya",
+      "dob": "1992-12-05",
+      "tob": "7:16:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "125",
+        "serial_number": 106,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810f9112d4aa2210afb0"
+      }
+    },
+    "Sandeep Bhaiya": {
+      "name": "Sandeep Bhaiya",
+      "dob": "1985-05-23",
+      "tob": "1:55:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "121",
+        "serial_number": 107,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8107931ed3a79bb6a698"
+      }
+    },
+    "Sandeep Bhaiya Job Change": {
+      "name": "Sandeep Bhaiya Job Change",
+      "dob": "2026-07-14",
+      "tob": "20:32:55",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "141",
+        "serial_number": 108,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f814c8ccad453aee14cd4"
+      }
+    },
+    "Sandeep K Papa Ka Hath Prasna": {
+      "name": "Sandeep K Papa Ka Hath Prasna",
+      "dob": "2026-08-03",
+      "tob": "13:0:26",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "138",
+        "serial_number": 109,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81429f93e3742fa6b1d3"
+      }
+    },
+    "Sandeep Ka Xam 2018": {
+      "name": "Sandeep Ka Xam 2018",
+      "dob": "2026-08-03",
+      "tob": "12:57:53",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "151",
+        "serial_number": 110,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f817b96e0e25513aba139"
+      }
+    },
+    "Sandeep Kumar Tarai": {
+      "name": "Sandeep Kumar Tarai",
+      "dob": "2000-02-12",
+      "tob": "6:32:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "129",
+        "serial_number": 111,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f812e9e29d5e4cc0a30f8"
+      }
+    },
+    "Sandeep Prasna": {
+      "name": "Sandeep Prasna",
+      "dob": "2026-07-19",
+      "tob": "23:2:39",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "132",
+        "serial_number": 112,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81309410cd7e4c3c1a93"
+      }
+    },
+    "Sandeep Prasna His": {
+      "name": "Sandeep Prasna His",
+      "dob": "2026-07-14",
+      "tob": "23:12:0",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "147",
+        "serial_number": 113,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816b9eabe434b8ee92f7"
+      }
+    },
+    "Sandeep Ref Uska Bhaiya": {
+      "name": "Sandeep Ref Uska Bhaiya",
+      "dob": "1996-06-15",
+      "tob": "14:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "150",
+        "serial_number": 114,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81778f54f4691691289f"
+      }
+    },
+    "Sanjay Mahato": {
+      "name": "Sanjay Mahato",
+      "dob": "2000-05-15",
+      "tob": "1:3:0",
+      "location": "Chakradharpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "168",
+        "serial_number": 115,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81c89646f7b228a4a310"
+      }
+    },
+    "Sarabjeet": {
+      "name": "Sarabjeet",
+      "dob": "2001-02-21",
+      "tob": "18:5:52",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "146",
+        "serial_number": 116,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f816b857edd9ea5d22b57"
+      }
+    },
+    "Shivam Kumar Singh": {
+      "name": "Shivam Kumar Singh",
+      "dob": "2000-02-15",
+      "tob": "15:58:0",
+      "location": "Patna, Bihar, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "126",
+        "serial_number": 118,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8114a013d73804d69365"
+      }
+    },
+    "Shragnik Roy Chowdhury": {
+      "name": "Shragnik Roy Chowdhury",
+      "dob": "2000-12-22",
+      "tob": "17:41:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "134",
+        "serial_number": 120,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813b8c08d52164b5e3a5"
+      }
+    },
+    "Shreya": {
+      "name": "Shreya",
+      "dob": "2001-08-13",
+      "tob": "18:16:0",
+      "location": "Muzaffarpur, Bihar",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "MLB Draft — Detroit Tigers",
+          "start_date": "1974",
+          "end_date": "1974",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Draft",
+            "10th Round"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/ce6d3e92293f82b58326812ba750765a"
+        },
+        {
+          "event": "Birth",
+          "start_date": "14 Aug 1954",
+          "end_date": "14 Aug 1954",
+          "tags": [
+            "Birth",
+            "Family",
+            "Worcester",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/a0ed3e92293f8240b419813ec5d08c76"
+        },
+        {
+          "event": "Death — Dump Truck Accident",
+          "start_date": "13 Apr 2009",
+          "end_date": "13 Apr 2009",
+          "tags": [
+            "Death",
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Dump Truck",
+            "Northborough",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/55ad3e92293f835bbf2581e17e57ba74"
+        },
+        {
+          "event": "Major Arm Injury",
+          "start_date": "1977",
+          "end_date": "1977",
+          "tags": [
+            "Baseball",
+            "Injury",
+            "Shoulder",
+            "Rotator Cuff",
+            "Career Interruption"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/987d3e92293f83f68d5301dd71f48a3b"
+        },
+        {
+          "event": "MLB Debut",
+          "start_date": "20 Apr 1976",
+          "end_date": "20 Apr 1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "MLB Debut"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/ac5d3e92293f82eaa08581c24eb8ff2f"
+        },
+        {
+          "event": "End of MLB Career",
+          "start_date": "1 Oct 1980",
+          "end_date": "1 Oct 1980",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Final MLB Appearance"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/9ccd3e92293f83b1be8301e164a02179"
+        },
+        {
+          "event": "Farm, Contracting & Trucking Work",
+          "start_date": "1983",
+          "end_date": "2009",
+          "tags": [
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Contracting",
+            "Farming",
+            "Gravel",
+            "Asphalt",
+            "Ten-Wheel Dump Truck"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/f33d3e92293f82efa34781a71fdbbb89"
+        },
+        {
+          "event": "Comeback — Pawtucket Red Sox",
+          "start_date": "1982",
+          "end_date": "1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Boston Red Sox",
+            "Minor League",
+            "Pawtucket"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/0ead3e92293f83b28ff181230b7f4433"
+        },
+        {
+          "event": "Marriage to Ann Fidrych",
+          "start_date": "1986",
+          "end_date": "1986",
+          "tags": [
+            "Family",
+            "Marriage",
+            "Ann Fidrych"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/b00d3e92293f820bbc19814dffbe612a"
+        },
+        {
+          "event": "Retirement from Professional Baseball",
+          "start_date": "Jul 1983",
+          "end_date": "Jul 1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Retirement",
+            "Comeback",
+            "Professional Baseball"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/513d3e92293f829fb1eb81519793229e"
+        },
+        {
+          "event": "Breakthrough 1976 Season",
+          "start_date": "1976",
+          "end_date": "1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Rookie of the Year",
+            "19 Wins",
+            "2.34 ERA",
+            "24 Complete Games",
+            "All-Star"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/1afd3e92293f830ca55a0114cedd26cb"
+        }
+      ],
+      "other_details": {
+        "entry_id": "175",
+        "serial_number": 121,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e7a43ac5313850dd9b"
+      }
+    },
+    "Shreya Sam": {
+      "name": "Shreya Sam",
+      "dob": "2003-03-25",
+      "tob": "3:50:0",
+      "location": "Mumbai, Maharashtra",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "MLB Draft — Detroit Tigers",
+          "start_date": "1974",
+          "end_date": "1974",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Draft",
+            "10th Round"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/5b4d3e92293f829785ff01855f20ca5f"
+        },
+        {
+          "event": "Birth",
+          "start_date": "14 Aug 1954",
+          "end_date": "14 Aug 1954",
+          "tags": [
+            "Birth",
+            "Family",
+            "Worcester",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/eebd3e92293f829d8b9f01c707ac8dc8"
+        },
+        {
+          "event": "Death — Dump Truck Accident",
+          "start_date": "13 Apr 2009",
+          "end_date": "13 Apr 2009",
+          "tags": [
+            "Death",
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Dump Truck",
+            "Northborough",
+            "Massachusetts"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/d73d3e92293f83818c40814bfe88e141"
+        },
+        {
+          "event": "Major Arm Injury",
+          "start_date": "1977",
+          "end_date": "1977",
+          "tags": [
+            "Baseball",
+            "Injury",
+            "Shoulder",
+            "Rotator Cuff",
+            "Career Interruption"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/6e8d3e92293f82179f02818292ee16e1"
+        },
+        {
+          "event": "MLB Debut",
+          "start_date": "20 Apr 1976",
+          "end_date": "20 Apr 1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "MLB Debut"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/382d3e92293f8282865181be6c2506e9"
+        },
+        {
+          "event": "End of MLB Career",
+          "start_date": "1 Oct 1980",
+          "end_date": "1 Oct 1980",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Detroit Tigers",
+            "Final MLB Appearance"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3eed3e92293f83c190ff81cc1f6d3ac0"
+        },
+        {
+          "event": "Farm, Contracting & Trucking Work",
+          "start_date": "1983",
+          "end_date": "2009",
+          "tags": [
+            "Transportation",
+            "Trucking",
+            "Construction",
+            "Contracting",
+            "Farming",
+            "Gravel",
+            "Asphalt",
+            "Ten-Wheel Dump Truck"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/51fd3e92293f826db5f4017cbf9b092d"
+        },
+        {
+          "event": "Comeback — Pawtucket Red Sox",
+          "start_date": "1982",
+          "end_date": "1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Boston Red Sox",
+            "Minor League",
+            "Pawtucket"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/24cd3e92293f8212b2608127858026a5"
+        },
+        {
+          "event": "Marriage to Ann Fidrych",
+          "start_date": "1986",
+          "end_date": "1986",
+          "tags": [
+            "Family",
+            "Marriage",
+            "Ann Fidrych"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/15dd3e92293f8221a5188188f6ddf04c"
+        },
+        {
+          "event": "Retirement from Professional Baseball",
+          "start_date": "Jul 1983",
+          "end_date": "Jul 1983",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Retirement",
+            "Comeback",
+            "Professional Baseball"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/fc1d3e92293f82e5b80601c74cc52809"
+        },
+        {
+          "event": "Breakthrough 1976 Season",
+          "start_date": "1976",
+          "end_date": "1976",
+          "tags": [
+            "Baseball",
+            "Career",
+            "Rookie of the Year",
+            "19 Wins",
+            "2.34 ERA",
+            "24 Complete Games",
+            "All-Star"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/fb3d3e92293f83ce951d810079a971e4"
+        }
+      ],
+      "other_details": {
+        "entry_id": "161",
+        "serial_number": 122,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a1b8acf9f6179bb0dd"
+      }
+    },
+    "Shubham Babusaab": {
+      "name": "Shubham Babusaab",
+      "dob": "2002-08-09",
+      "tob": "4:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "176",
+        "serial_number": 123,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81e9a387ff1556835f1e"
+      }
+    },
+    "Shubham Dey": {
+      "name": "Shubham Dey",
+      "dob": "2000-06-04",
+      "tob": "4:4:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "128",
+        "serial_number": 124,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f812e9394ca6f9bc234c4"
+      }
+    },
+    "Shubham Didi": {
+      "name": "Shubham Didi",
+      "dob": "2000-06-12",
+      "tob": "22:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "172",
+        "serial_number": 125,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81d6a0fee6fe7bf42aa5"
+      }
+    },
+    "Shubham Kashyap": {
+      "name": "Shubham Kashyap",
+      "dob": "2000-03-19",
+      "tob": "19:29:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "167",
+        "serial_number": 126,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81bc938ff06dd4c4f56c"
+      }
+    },
+    "Shubhankar": {
+      "name": "Shubhankar",
+      "dob": "1997-08-25",
+      "tob": "13:25:0",
+      "location": "Balasore, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "157",
+        "serial_number": 127,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8192bd1ae176e1e20c5d"
+      }
+    },
+    "Srikant Bolla": {
+      "name": "Srikant Bolla",
+      "dob": "1991-07-07",
+      "tob": "10:34:14",
+      "location": "Manual Lat Long",
+      "coordinates": null,
+      "tags": [
+        "Entrepreneur \\",
+        "Business Leader \\",
+        "Bollant Industries \\",
+        "Social Enterprise"
+      ],
+      "broader_tags": [
+        "Business & Industry"
+      ],
+      "master_category": "Business & Industry",
+      "events": [],
+      "other_details": {
+        "entry_id": "118",
+        "serial_number": 128,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810097b4f9931a0756bb"
+      }
+    },
+    "Ssr": {
+      "name": "Ssr",
+      "dob": "1999-08-14",
+      "tob": "7:45:0",
+      "location": "Rourkela Airport, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "144",
+        "serial_number": 129,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81618ee3d37130412c49"
+      }
+    },
+    "Stephen Bogart": {
+      "name": "Stephen Bogart",
+      "dob": "1949-01-06",
+      "tob": "23:21:59",
+      "location": "Los Angeles, USA",
+      "coordinates": "34° 03' 06\" N, 118° 14' 38\" W",
+      "tags": [
+        "Writer \\",
+        "Film Producer \\",
+        "Businessperson \\",
+        "American Cinema"
+      ],
+      "broader_tags": [
+        "Entertainment & Performing Arts"
+      ],
+      "master_category": "Entertainment & Performing Arts",
+      "events": [],
+      "other_details": {
+        "entry_id": "182",
+        "serial_number": 130,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e1d3e92293f810084f8cac2399ab489"
+      }
+    },
+    "Stephen Hill": {
+      "name": "Stephen Hill",
+      "dob": "1954-11-19",
+      "tob": "22:24:59",
+      "location": "Walford, England",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "177",
+        "serial_number": 131,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81eb8982d1f01c8a18f4"
+      }
+    },
+    "Suar Ref": {
+      "name": "Suar Ref",
+      "dob": "1999-08-21",
+      "tob": "22:55:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "159",
+        "serial_number": 132,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8195a4dcf9530fcc0a0a"
+      }
+    },
+    "Sumit Kaushik": {
+      "name": "Sumit Kaushik",
+      "dob": "1999-08-10",
+      "tob": "15:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "119",
+        "serial_number": 134,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8104a614f2c430570b42"
+      }
+    },
+    "Suraj Doge": {
+      "name": "Suraj Doge",
+      "dob": "1999-05-03",
+      "tob": "14:35:0",
+      "location": "Ghatsila, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "173",
+        "serial_number": 135,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81d78c34f7cb92d48ec7"
+      }
+    },
+    "Suraj Kumar Batla": {
+      "name": "Suraj Kumar Batla",
+      "dob": "1998-11-03",
+      "tob": "10:40:52",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "160",
+        "serial_number": 136,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f819d88b7d1012e7ece8a"
+      }
+    },
+    "Swasti": {
+      "name": "Swasti",
+      "dob": "2002-03-10",
+      "tob": "13:30:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "164",
+        "serial_number": 137,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ae8338dd9fbd16041a"
+      }
+    },
+    "Sweta": {
+      "name": "Sweta",
+      "dob": "2001-03-29",
+      "tob": "19:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "154",
+        "serial_number": 138,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f818d9799dc22bef0a0d7"
+      }
+    },
+    "Tantra Chart": {
+      "name": "Tantra Chart",
+      "dob": "1974-05-24",
+      "tob": "4:25:0",
+      "location": "Manual Lat Long",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "152",
+        "serial_number": 139,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f817e9a4ee90eec8dd4a7"
+      }
+    },
+    "Tantra Prasan": {
+      "name": "Tantra Prasan",
+      "dob": "2026-04-22",
+      "tob": "10:0:40",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "181",
+        "serial_number": 140,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f9ad73c1dec70e4087"
+      }
+    },
+    "Tarash": {
+      "name": "Tarash",
+      "dob": "2000-02-12",
+      "tob": "17:55:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "Fathers death",
+          "start_date": "17 /01/2026",
+          "end_date": null,
+          "tags": [],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f80e2ac7bce200bfa15fc"
+        }
+      ],
+      "other_details": {
+        "entry_id": "124",
+        "serial_number": 141,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810e8f52c80f5b41db8f"
+      }
+    },
+    "Tarun Sharma": {
+      "name": "Tarun Sharma",
+      "dob": "2000-11-17",
+      "tob": "14:15:0",
+      "location": "Siwan, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "135",
+        "serial_number": 142,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813c8b09f00fbcf2d0ba"
+      }
+    },
+    "Today": {
+      "name": "Today",
+      "dob": "2025-01-23",
+      "tob": "19:36:42",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "123",
+        "serial_number": 143,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f810b9f65f73b2b515372"
+      }
+    },
+    "Today [Entry ID 127]": {
+      "name": "Today",
+      "dob": "2025-01-22",
+      "tob": "18:32:17",
+      "location": "Jajpur, Odisha, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Prashna charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "127",
+        "serial_number": 144,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8124821ee086c3bea005"
+      }
+    },
+    "Uttam Ghosh": {
+      "name": "Uttam Ghosh",
+      "dob": "2001-01-14",
+      "tob": "18:15:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [
+        {
+          "event": "Mama’s death",
+          "start_date": "1/12/2022",
+          "end_date": "3/12/22",
+          "tags": [
+            "Death , Mama"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e1d3e92293f80338e0bfbaf8413e13d"
+        }
+      ],
+      "other_details": {
+        "entry_id": "131",
+        "serial_number": 145,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f812ebbdcf7f76eec0873"
+      }
+    },
+    "Vaishnavi Reddy": {
+      "name": "Vaishnavi Reddy",
+      "dob": "2013-11-19",
+      "tob": "1:0:0",
+      "location": "Pune, Maharashtra, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "158",
+        "serial_number": 146,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8194b2fcee2a5ced855b"
+      }
+    },
+    "Vajji": {
+      "name": "Vajji",
+      "dob": "1995-10-23",
+      "tob": "18:15:0",
+      "location": "Munak, Haryana, India",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "162",
+        "serial_number": 147,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81a4bdcfc46a0bc498af"
+      }
+    },
+    "Varsha": {
+      "name": "Varsha",
+      "dob": "2001-09-01",
+      "tob": "21:55:0",
+      "location": "Rourkela Airport, Odisha",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "156",
+        "serial_number": 148,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f818f94efdbb8f57a3629"
+      }
+    },
+    "Vedant": {
+      "name": "Vedant",
+      "dob": "2001-08-31",
+      "tob": "23:45:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "180",
+        "serial_number": 149,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81f9809cc2d58db9171f"
+      }
+    },
+    "Viki Bhaiya": {
+      "name": "Viki Bhaiya",
+      "dob": "1993-02-16",
+      "tob": "15:56:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "139",
+        "serial_number": 150,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f8145a433f236530b6117"
+      }
+    },
+    "Vishal": {
+      "name": "Vishal",
+      "dob": "1997-11-04",
+      "tob": "4:50:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "148",
+        "serial_number": 151,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81708facd765763df454"
+      }
+    },
+    "Vivek Mahato": {
+      "name": "Vivek Mahato",
+      "dob": "2000-07-26",
+      "tob": "18:0:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "163",
+        "serial_number": 152,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81ab8759c9da50a1baca"
+      }
+    },
+    "Vvb": {
+      "name": "Vvb",
+      "dob": "2000-07-17",
+      "tob": "10:50:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "174",
+        "serial_number": 153,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81d7ba76e35711f961bf"
+      }
+    },
+    "Walter Englert Astrology": {
+      "name": "Walter Englert Astrology",
+      "dob": "1907-12-01",
+      "tob": "12:23:0",
+      "location": "Frankfurt am Main, Germany",
+      "coordinates": null,
+      "tags": [
+        "Astrologer \\",
+        "Publishing Manager \\",
+        "Economist \\",
+        "Traditional Astrology \\",
+        "Mundane Astrology"
+      ],
+      "broader_tags": [
+        "Astrology & Occult"
+      ],
+      "master_category": "Astrology & Occult",
+      "events": [],
+      "other_details": {
+        "entry_id": "166",
+        "serial_number": 154,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81baa106f613d1574bf1"
+      }
+    },
+    "Xavier Emmanuelli": {
+      "name": "Xavier Emmanuelli",
+      "dob": "1938-08-23",
+      "tob": null,
+      "location": "Paris, France",
+      "coordinates": null,
+      "tags": [
+        "Physician \\",
+        "Anesthesiology \\",
+        "Humanitarian worker \\",
+        "Médecins Sans Frontières \\",
+        "Samusocial \\",
+        "Government minister \\",
+        "Social emergency"
+      ],
+      "broader_tags": [
+        "Science & Medicine"
+      ],
+      "master_category": "Social & Humanitarian",
+      "events": [
+        {
+          "event": "Council member of the Légion d'honneur",
+          "start_date": null,
+          "end_date": "2017",
+          "tags": [
+            "Public service",
+            "Légion d'honneur",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8150958ee01c0e9ad70a"
+        },
+        {
+          "event": "Death",
+          "start_date": null,
+          "end_date": "16 Nov 2025",
+          "tags": [
+            "Death",
+            "Paris",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81cd9eb9fd485a4af876"
+        },
+        {
+          "event": "Left presidency of Samusocial de Paris",
+          "start_date": null,
+          "end_date": "2011",
+          "tags": [
+            "Samusocial",
+            "Social policy",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81fe954bffbbcddee2dc"
+        },
+        {
+          "event": "Secretary of State for Emergency Humanitarian Action",
+          "start_date": null,
+          "end_date": "2 Jun 1997",
+          "tags": [
+            "Government",
+            "Humanitarian",
+            "Secretary of State",
+            "France"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f811081dcdbb649c58a2c"
+        },
+        {
+          "event": "Founded Samusocial de Paris",
+          "start_date": null,
+          "end_date": "1993",
+          "tags": [
+            "Social & Humanitarian",
+            "Samusocial",
+            "Paris",
+            "Founder"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81309b87cfcbdf235b28"
+        },
+        {
+          "event": "Founded Samusocial International",
+          "start_date": null,
+          "end_date": "1998",
+          "tags": [
+            "Social & Humanitarian",
+            "Samusocial International",
+            "Founder"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81a4a4a1d96fc35f0422"
+        },
+        {
+          "event": "Founded Les Transmetteurs and Emergency Mobile Team initiatives",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Humanitarian",
+            "Social care",
+            "Volunteerism",
+            "Emergency medicine"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81aba865de817d72725f"
+        },
+        {
+          "event": "Leadership role at Médecins Sans Frontières",
+          "start_date": null,
+          "end_date": "1988",
+          "tags": [
+            "Humanitarian",
+            "MSF",
+            "Leadership",
+            "Medicine"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81b29214ce9d25ba6b90"
+        },
+        {
+          "event": "President of the High Committee for Housing for Disadvantaged People",
+          "start_date": null,
+          "end_date": "2015",
+          "tags": [
+            "Social policy",
+            "Housing",
+            "Government",
+            "Humanitarian"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81c18f19df65df9b3cf9"
+        },
+        {
+          "event": "Chief physician at Fleury-Mérogis prison",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Medicine",
+            "Prison medicine",
+            "Fleury-Mérogis",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81d192fefa8f61b4287c"
+        },
+        {
+          "event": "Practitioner at Nanterre homeless reception centre",
+          "start_date": null,
+          "end_date": null,
+          "tags": [
+            "Medicine",
+            "Homelessness",
+            "Social emergency",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81d6bb28e7620a0109ac"
+        },
+        {
+          "event": "Medical service in the merchant navy",
+          "start_date": null,
+          "end_date": "1969",
+          "tags": [
+            "Medicine",
+            "Emergency medicine",
+            "Merchant navy",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8100976fe536f9f84037"
+        },
+        {
+          "event": "Specialized in anesthesiology and intensive care",
+          "start_date": null,
+          "end_date": "1976",
+          "tags": [
+            "Medicine",
+            "Anesthesiology",
+            "Intensive care",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f811e8fddfb805b04117a"
+        },
+        {
+          "event": "Second marriage",
+          "start_date": null,
+          "end_date": "15 Sep 1973",
+          "tags": [
+            "Marriage",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8148a1eee4988b443e23"
+        },
+        {
+          "event": "Completed medical studies",
+          "start_date": null,
+          "end_date": "1967",
+          "tags": [
+            "Education",
+            "Medicine",
+            "Doctor",
+            "Paris"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81619f0bce394ff3589b"
+        },
+        {
+          "event": "Marriage",
+          "start_date": null,
+          "end_date": "2 Jul 1968",
+          "tags": [
+            "Marriage",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f816b8b4eed29bbcf4455"
+        },
+        {
+          "event": "Divorce",
+          "start_date": null,
+          "end_date": "30 Mar 1973",
+          "tags": [
+            "Family",
+            "Divorce"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f818f88f8c1a0482ab39c"
+        },
+        {
+          "event": "Cofounded Médecins Sans Frontières",
+          "start_date": null,
+          "end_date": "1971",
+          "tags": [
+            "Humanitarian",
+            "Medicine",
+            "MSF",
+            "Founder",
+            "Career"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f8190a430faef8eedd232"
+        },
+        {
+          "event": "Divorce",
+          "start_date": null,
+          "end_date": "10 Mar 1977",
+          "tags": [
+            "Family",
+            "Divorce"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81ab90d3f3d54b3bde18"
+        },
+        {
+          "event": "Birth",
+          "start_date": null,
+          "end_date": "23 Aug 1938",
+          "tags": [
+            "Birth",
+            "Paris",
+            "France",
+            "Family"
+          ],
+          "event_type": null,
+          "importance": null,
+          "source_page": "https://app.notion.com/p/3e2d3e92293f81f7a357ce98cd90022c"
+        }
+      ],
+      "other_details": {
+        "entry_id": "206",
+        "serial_number": null,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e2d3e92293f811ea5fce2bc94baa10d"
+      }
+    },
+    "Xyz": {
+      "name": "Xyz",
+      "dob": "2025-03-11",
+      "tob": "9:24:54",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Unknown person/Ref charts"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "136",
+        "serial_number": 155,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f813faf7ec742facf26de"
+      }
+    },
+    "Yash Tiwary": {
+      "name": "Yash Tiwary",
+      "dob": "1997-09-25",
+      "tob": "8:20:0",
+      "location": "Jamshedpur, Jharkhand",
+      "coordinates": null,
+      "tags": [],
+      "broader_tags": [
+        "Knowns person"
+      ],
+      "master_category": null,
+      "events": [],
+      "other_details": {
+        "entry_id": "170",
+        "serial_number": 156,
+        "chart_placements": [],
+        "research_notes": [],
+        "master_combinations": [],
+        "event_sources": [],
+        "notion_page": "https://app.notion.com/p/3e0d3e92293f81cdb6fbe13b4a37e957"
+      }
+    }
+  }
+}
