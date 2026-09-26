@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-# Core helpers: DB connection, page layout, nav buttons.
-
-import os
 import turso_serverless as turso
 from config import URL, TOKEN
 
@@ -11,8 +8,7 @@ def conn():
 
 
 def q(sql, args=()):
-    c = conn()
-    cur = c.cursor()
+    c = conn(); cur = c.cursor()
     cur.execute(sql, args)
     rows = cur.fetchall()
     c.close()
@@ -20,26 +16,23 @@ def q(sql, args=()):
 
 
 def run(sql, args=()):
-    c = conn()
-    cur = c.cursor()
+    c = conn(); cur = c.cursor()
     cur.execute(sql, args)
     c.commit()
     c.close()
 
 
 def insert_and_id(sql, args=()):
-    c = conn()
-    cur = c.cursor()
+    c = conn(); cur = c.cursor()
     cur.execute(sql, args)
     c.commit()
-    cur.execute('SELECT last_insert_rowid()')
+    cur.execute("SELECT last_insert_rowid()")
     rid = cur.fetchone()[0]
     c.close()
     return rid
 
 
-CSS = '''
-*{box-sizing:border-box}
+CSS = """*{box-sizing:border-box}
 body{font-family:-apple-system,Roboto,sans-serif;margin:0;background:#f4f5f7;color:#222;padding-bottom:60px}
 header{background:#5e35b1;color:#fff;padding:12px 14px;position:sticky;top:0;z-index:10;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
 header .brand{font-weight:600;font-size:15px;color:#fff;text-decoration:none}
@@ -90,7 +83,7 @@ input:focus,textarea:focus,select:focus{outline:none;border-color:#5e35b1;box-sh
 .search-bar input{flex:1;padding:12px;font-size:15px;border:1px solid #ccc;border-radius:8px;margin:0}
 .letters{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:14px}
 .letter{background:#fff;border:1px solid #ddd;border-radius:6px;padding:7px 10px;font-size:13px;cursor:pointer;color:#4527a0;font-weight:600;min-width:32px;text-align:center}
-.letter:active,.letter.on{background:#ede7f6}
+.letter:active{background:#ede7f6}
 .picker-row{display:flex;justify-content:space-between;align-items:center;padding:11px 13px;background:#fff;border:1px solid #eee;border-radius:8px;margin-bottom:6px}
 .picker-row .nm{font-size:14px;font-weight:500}
 .picker-row .ac{display:flex;gap:4px}
@@ -113,7 +106,20 @@ input:focus,textarea:focus,select:focus{outline:none;border-color:#5e35b1;box-sh
 .home-title{text-align:center;margin:30px 0}
 .home-title h1{font-size:28px;color:#5e35b1;margin:0;letter-spacing:-.5px}
 .home-title p{color:#888;font-size:13px;margin:8px 0 0;letter-spacing:2px;text-transform:uppercase}
-'''
+
+/* AUTOCOMPLETE */
+.ac-wrap{position:relative}
+.ac-drop{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid #ddd;border-top:none;border-radius:0 0 8px 8px;max-height:280px;overflow-y:auto;z-index:50;box-shadow:0 6px 14px rgba(0,0,0,.12)}
+.ac-drop:empty{display:none}
+.ac-item{padding:11px 14px;font-size:14px;cursor:pointer;border-bottom:1px solid #f0f0f0;display:flex;justify-content:space-between;align-items:center}
+.ac-item:hover,.ac-item.on{background:#ede7f6;color:#4527a0}
+.ac-item:last-child{border-bottom:none}
+.ac-item .ac-lbl{font-weight:500}
+.ac-item .ac-sub{font-size:11px;color:#999;margin-left:8px}
+.ac-empty{padding:12px 14px;font-size:13px;color:#999}
+.ac-clear{position:absolute;top:50%;right:10px;transform:translateY(-50%);cursor:pointer;color:#999;font-size:16px;display:none}
+.ac-wrap.has-val .ac-clear{display:block}
+"""
 
 
 LAYOUT = (
@@ -134,6 +140,88 @@ LAYOUT = (
     '  </nav>\n'
     '</header>\n'
     '<main>__BODY__</main>\n'
+    '<script>\n'
+    '(function(){\n'
+    '  function attach(input){\n'
+    '    if (input.__ac) return;\n'
+    '    input.__ac = true;\n'
+    '    var src = input.getAttribute("data-src") || "people";\n'
+    '    var wrap = document.createElement("div");\n'
+    '    wrap.className = "ac-wrap";\n'
+    '    input.parentNode.insertBefore(wrap, input);\n'
+    '    wrap.appendChild(input);\n'
+    '    var clr = document.createElement("span");\n'
+    '    clr.className = "ac-clear";\n'
+    '    clr.innerHTML = "&#10005;";\n'
+    '    wrap.appendChild(clr);\n'
+    '    var drop = document.createElement("div");\n'
+    '    drop.className = "ac-drop";\n'
+    '    wrap.appendChild(drop);\n'
+    '    var tmr = null, last = "";\n'
+    '    function render(items){\n'
+    '      if (!items || !items.length){\n'
+    '        drop.innerHTML = "<div class=\'ac-empty\'>No matches</div>";\n'
+    '        return;\n'
+    '      }\n'
+    '      var html = "";\n'
+    '      for (var i=0;i<items.length;i++){\n'
+    '        var it = items[i];\n'
+    '        var label = it.name || it.title || it.event || "";\n'
+    '        var sub = it.sub || it.place || it.body || "";\n'
+    '        html += "<div class=\'ac-item\' data-id=\'"+it.id+"\' data-label=\'"+label.replace(/\'/g,"&#39;")+"\'>"+\n'
+    '                "<span class=\'ac-lbl\'>"+label+"</span>"+\n'
+    '                (sub ? "<span class=\'ac-sub\'>"+sub+"</span>" : "")+"</div>";\n'
+    '      }\n'
+    '      drop.innerHTML = html;\n'
+    '    }\n'
+    '    function search(term){\n'
+    '      if (!term || term.length < 2){ drop.innerHTML = ""; return; }\n'
+    '      fetch("/api/"+src+"/search?q="+encodeURIComponent(term))\n'
+    '        .then(function(r){return r.json();})\n'
+    '        .then(render)\n'
+    '        .catch(function(){ drop.innerHTML = ""; });\n'
+    '    }\n'
+    '    input.addEventListener("input", function(){\n'
+    '      clearTimeout(tmr);\n'
+    '      var v = input.value.trim();\n'
+    '      wrap.classList.toggle("has-val", v.length > 0);\n'
+    '      if (v === last) return;\n'
+    '      last = v;\n'
+    '      tmr = setTimeout(function(){ search(v); }, 180);\n'
+    '    });\n'
+    '    input.addEventListener("blur", function(){\n'
+    '      setTimeout(function(){ drop.innerHTML = ""; }, 200);\n'
+    '    });\n'
+    '    input.addEventListener("focus", function(){\n'
+    '      if (input.value.trim().length >= 2) search(input.value.trim());\n'
+    '    });\n'
+    '    clr.addEventListener("mousedown", function(e){\n'
+    '      e.preventDefault();\n'
+    '      input.value = "";\n'
+    '      input.removeAttribute("data-picked-id");\n'
+    '      wrap.classList.remove("has-val");\n'
+    '      drop.innerHTML = "";\n'
+    '      input.focus();\n'
+    '    });\n'
+    '    drop.addEventListener("mousedown", function(e){\n'
+    '      var el = e.target.closest ? e.target.closest(".ac-item") : null;\n'
+    '      if (!el) return;\n'
+    '      e.preventDefault();\n'
+    '      input.value = el.getAttribute("data-label");\n'
+    '      input.setAttribute("data-picked-id", el.getAttribute("data-id"));\n'
+    '      drop.innerHTML = "";\n'
+    '      wrap.classList.add("has-val");\n'
+    '      input.dispatchEvent(new Event("change", {bubbles:true}));\n'
+    '    });\n'
+    '  }\n'
+    '  function init(){\n'
+    '    document.querySelectorAll("input.ac-search").forEach(attach);\n'
+    '  }\n'
+    '  if (document.readyState === "loading"){\n'
+    '    document.addEventListener("DOMContentLoaded", init);\n'
+    '  } else { init(); }\n'
+    '})();\n'
+    '</script>\n'
     '</body></html>'
 )
 
@@ -142,7 +230,7 @@ def page(body):
     return LAYOUT.replace('__BODY__', body)
 
 
-def nav(back_to, back_label='Back'):
+def nav(back_to, back_label="Back"):
     return (
         '<div class="actions">'
         '<a class="btn btn-secondary btn-sm" href="%s">&larr; %s</a>'
