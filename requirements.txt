@@ -1,3 +1,4 @@
 flask
 gunicorn
 turso_serverless
+requests
